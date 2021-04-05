@@ -53,17 +53,26 @@ export default function HomeAppContent() {
 	const [topics, setTopics] = useState(subjects);
 	const [value, setValue] = useState(0);
 
-	const changeTopicOpen = (topic, title) => {
+	const changeTopicOpen = (topic, title, reset) => {
+		if (reset === true) {
+			return {
+				...topic,
+				open: false,
+				subtopics: topic.subtopics.map(subtopic => changeTopicOpen(subtopic, title, true))
+			};
+		}
+
 		if (topic.title === title) {
 			return {
 				...topic,
-				open: topic.open === undefined ? true : !topic.open
+				open: topic.open === undefined ? true : !topic.open,
+				subtopics: topic.subtopics.map(subtopic => changeTopicOpen(subtopic, title, true))
 			};
 		}
 
 		return {
 			...topic,
-			subtopics: topic.subtopics.map(subtopic => changeTopicOpen(subtopic, title))
+			subtopics: topic.subtopics.map(subtopic => changeTopicOpen(subtopic, title, reset))
 		};
 	};
 
