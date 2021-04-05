@@ -1,0 +1,2179 @@
+[
+  {
+    "title": "Humanities",
+    "subtopics": [
+      {
+        "title": "Performing arts",
+        "subtopics": [
+          {
+            "title": "Music (outline)",
+            "subtopics": [
+              { "title": "Accompanying", "subtopics": [] },
+              { "title": "Chamber music", "subtopics": [] },
+              { "title": "Church music", "subtopics": [] },
+              {
+                "title": "Conducting",
+                "subtopics": [
+                  { "title": "Choral conducting", "subtopics": [] },
+                  { "title": "Orchestral conducting", "subtopics": [] },
+                  { "title": "Wind ensemble conducting", "subtopics": [] }
+                ]
+              },
+              { "title": "Early music", "subtopics": [] },
+              { "title": "Jazz studies (outline)", "subtopics": [] },
+              { "title": "Musical composition", "subtopics": [] },
+              { "title": "Music education", "subtopics": [] },
+              { "title": "Music history", "subtopics": [] },
+              {
+                "title": "Musicology",
+                "subtopics": [
+                  { "title": "Historical musicology", "subtopics": [] },
+                  { "title": "Systematic musicology", "subtopics": [] }
+                ]
+              },
+              { "title": "Ethnomusicology", "subtopics": [] },
+              { "title": "Music theory", "subtopics": [] },
+              { "title": "Orchestral studies", "subtopics": [] },
+              {
+                "title": "Organology",
+                "subtopics": [
+                  {
+                    "title": "Organ and historical keyboards",
+                    "subtopics": []
+                  },
+                  { "title": "Piano", "subtopics": [] },
+                  {
+                    "title": "Strings, harp, oud, and guitar (outline)",
+                    "subtopics": []
+                  },
+                  { "title": "Singing", "subtopics": [] },
+                  {
+                    "title": "Woodwinds, brass, and percussion",
+                    "subtopics": []
+                  }
+                ]
+              },
+              { "title": "Recording", "subtopics": [] }
+            ]
+          },
+          {
+            "title": "Dance (outline)",
+            "subtopics": [
+              { "title": "Choreography", "subtopics": [] },
+              { "title": "Dance notation", "subtopics": [] },
+              { "title": "Ethnochoreology", "subtopics": [] },
+              { "title": "History of dance", "subtopics": [] }
+            ]
+          },
+          {
+            "title": "Television (outline)",
+            "subtopics": [{ "title": "Television studies", "subtopics": [] }]
+          },
+          {
+            "title": "Theatre (outline)",
+            "subtopics": [
+              { "title": "Acting", "subtopics": [] },
+              { "title": "Directing", "subtopics": [] },
+              { "title": "Dramaturgy", "subtopics": [] },
+              { "title": "History", "subtopics": [] },
+              { "title": "Musical theatre", "subtopics": [] },
+              { "title": "Playwrighting", "subtopics": [] },
+              { "title": "Puppetry", "subtopics": [] },
+              { "title": "Scenography", "subtopics": [] },
+              { "title": "Stage design", "subtopics": [] },
+              { "title": "Ventriloquism", "subtopics": [] }
+            ]
+          },
+          {
+            "title": "Film (outline)",
+            "subtopics": [
+              { "title": "Animation", "subtopics": [] },
+              { "title": "Film criticism", "subtopics": [] },
+              { "title": "Filmmaking", "subtopics": [] },
+              { "title": "Film theory", "subtopics": [] },
+              { "title": "Live action", "subtopics": [] }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Visual arts",
+        "subtopics": [
+          {
+            "title": "Fine arts",
+            "subtopics": [
+              {
+                "title": "Graphic arts",
+                "subtopics": [
+                  { "title": "Drawing (outline)", "subtopics": [] },
+                  { "title": "Painting (outline)", "subtopics": [] },
+                  { "title": "Photography (outline)", "subtopics": [] }
+                ]
+              },
+              { "title": "Sculpture (outline)", "subtopics": [] }
+            ]
+          },
+          {
+            "title": "Applied arts",
+            "subtopics": [
+              { "title": "Animation", "subtopics": [] },
+              { "title": "Calligraphy", "subtopics": [] },
+              { "title": "Decorative arts", "subtopics": [] },
+              { "title": "Mixed media", "subtopics": [] },
+              { "title": "Printmaking", "subtopics": [] },
+              { "title": "Studio art", "subtopics": [] },
+              {
+                "title": "Architecture (Outline of architecture)",
+                "subtopics": [
+                  { "title": "Interior architecture", "subtopics": [] },
+                  {
+                    "title": "Landscape architecture",
+                    "subtopics": [
+                      { "title": "Landscape design", "subtopics": [] },
+                      { "title": "Landscape planning", "subtopics": [] }
+                    ]
+                  },
+                  { "title": "Architectural analytics", "subtopics": [] },
+                  { "title": "Historic preservation", "subtopics": [] },
+                  {
+                    "title": "Interior design (interior architecture)",
+                    "subtopics": []
+                  },
+                  { "title": "Technical drawing", "subtopics": [] }
+                ]
+              }
+            ]
+          },
+          { "title": "Fashion", "subtopics": [] }
+        ]
+      },
+      {
+        "title": "History",
+        "subtopics": [
+          { "title": "African history", "subtopics": [] },
+          { "title": "American history", "subtopics": [] },
+          {
+            "title": "Ancient history",
+            "subtopics": [
+              { "title": "Ancient Egypt", "subtopics": [] },
+              { "title": "Carthage", "subtopics": [] },
+              {
+                "title": "Ancient Greek history (outline)",
+                "subtopics": []
+              },
+              {
+                "title": "Ancient Roman history (outline)",
+                "subtopics": []
+              },
+              { "title": "Assyrian Civilization", "subtopics": [] },
+              { "title": "Bronze Age Civilizations", "subtopics": [] },
+              { "title": "Biblical history", "subtopics": [] },
+              {
+                "title": "History of the Indus Valley Civilization",
+                "subtopics": []
+              },
+              { "title": "Preclassic Maya", "subtopics": [] },
+              { "title": "History of Mesopotamia", "subtopics": [] },
+              { "title": "The Stone Age", "subtopics": [] },
+              { "title": "History of the Yangtze civilization", "subtopics": [] },
+              {
+                "title": "History of the Yellow River civilization",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "title": "Asian history",
+            "subtopics": [
+              { "title": "Chinese history", "subtopics": [] },
+              { "title": "Indian history (outline)", "subtopics": [] },
+              { "title": "Indonesian history", "subtopics": [] },
+              { "title": "Iranian history", "subtopics": [] }
+            ]
+          },
+          { "title": "Australian history", "subtopics": [] },
+          {
+            "title": "Ecclesiastical history of the Catholic Church",
+            "subtopics": []
+          },
+          { "title": "Economic history", "subtopics": [] },
+          { "title": "Environmental history", "subtopics": [] },
+          { "title": "European history", "subtopics": [] },
+          { "title": "Intellectual history", "subtopics": [] },
+          { "title": "Jewish history", "subtopics": [] },
+          { "title": "Latin American history", "subtopics": [] },
+          { "title": "Modern history", "subtopics": [] },
+          {
+            "title": "History of philosophy",
+            "subtopics": [
+              { "title": "Ancient philosophy", "subtopics": [] },
+              { "title": "Contemporary philosophy", "subtopics": [] },
+              {
+                "title": "Medieval philosophy",
+                "subtopics": [
+                  { "title": "Humanism (outline)", "subtopics": [] },
+                  { "title": "Scholasticism", "subtopics": [] }
+                ]
+              },
+              { "title": "Modern philosophy", "subtopics": [] }
+            ]
+          },
+          { "title": "Political history", "subtopics": [] },
+          { "title": "Pre-Columbian era", "subtopics": [] },
+          { "title": "Russian history", "subtopics": [] },
+          { "title": "History of culture", "subtopics": [] },
+          { "title": "Scientific history", "subtopics": [] },
+          { "title": "Technological history", "subtopics": [] },
+          { "title": "World history", "subtopics": [] },
+          { "title": "Public history", "subtopics": [] }
+        ]
+      },
+      {
+        "title": "Languages and literature",
+        "subtopics": [
+          {
+            "title": "Linguistics (Outline of linguistics)",
+            "subtopics": [
+              { "title": "Applied linguistics", "subtopics": [] },
+              { "title": "Composition studies", "subtopics": [] },
+              { "title": "Computational linguistics", "subtopics": [] },
+              { "title": "Discourse analysis", "subtopics": [] },
+              { "title": "English studies", "subtopics": [] },
+              { "title": "Etymology", "subtopics": [] },
+              { "title": "Grammar", "subtopics": [] },
+              { "title": "Grammatology", "subtopics": [] },
+              { "title": "Historical linguistics", "subtopics": [] },
+              { "title": "History of linguistics", "subtopics": [] },
+              { "title": "Interlinguistics", "subtopics": [] },
+              { "title": "Lexicology", "subtopics": [] },
+              { "title": "Linguistic typology", "subtopics": [] },
+              { "title": "Morphology (linguistics)", "subtopics": [] },
+              { "title": "Natural language processing", "subtopics": [] },
+              { "title": "Philology", "subtopics": [] },
+              { "title": "Phonetics", "subtopics": [] },
+              { "title": "Phonology", "subtopics": [] },
+              { "title": "Pragmatics", "subtopics": [] },
+              { "title": "Psycholinguistics", "subtopics": [] },
+              { "title": "Rhetoric", "subtopics": [] },
+              { "title": "Semantics", "subtopics": [] },
+              { "title": "Semiotics (outline)", "subtopics": [] },
+              { "title": "Sociolinguistics", "subtopics": [] },
+              { "title": "Syntax", "subtopics": [] },
+              { "title": "Usage", "subtopics": [] },
+              { "title": "Word usage", "subtopics": [] }
+            ]
+          },
+          { "title": "Comparative literature", "subtopics": [] },
+          {
+            "title": "Creative writing",
+            "subtopics": [
+              { "title": "Fiction (outline)", "subtopics": [] },
+              { "title": "Non-fiction", "subtopics": [] }
+            ]
+          },
+          { "title": "English literature", "subtopics": [] },
+          {
+            "title": "History of literature",
+            "subtopics": [
+              { "title": "Ancient literature", "subtopics": [] },
+              { "title": "Medieval literature", "subtopics": [] },
+              { "title": "Post-colonial literature", "subtopics": [] },
+              { "title": "Post-modern literature", "subtopics": [] }
+            ]
+          },
+          {
+            "title": "Literary theory",
+            "subtopics": [
+              { "title": "Critical theory (outline)", "subtopics": [] },
+              { "title": "Literary criticism", "subtopics": [] },
+              { "title": "Poetics", "subtopics": [] }
+            ]
+          },
+          { "title": "Poetry", "subtopics": [] },
+          {
+            "title": "World literature",
+            "subtopics": [
+              { "title": "African-American literature", "subtopics": [] },
+              { "title": "American literature", "subtopics": [] },
+              { "title": "British literature", "subtopics": [] }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Law",
+        "subtopics": [
+          { "title": "Administrative law", "subtopics": [] },
+          { "title": "Canon law", "subtopics": [] },
+          {
+            "title": "Civil law",
+            "subtopics": [
+              { "title": "Admiralty law", "subtopics": [] },
+              { "title": "Animal law/Animal rights", "subtopics": [] },
+              { "title": "Civil procedure", "subtopics": [] },
+              { "title": "Common law", "subtopics": [] },
+              { "title": "Contract law", "subtopics": [] },
+              { "title": "Corporations", "subtopics": [] },
+              { "title": "Environmental law", "subtopics": [] },
+              { "title": "Family law", "subtopics": [] },
+              { "title": "Federal law", "subtopics": [] },
+              {
+                "title": "International law",
+                "subtopics": [
+                  { "title": "Public international law", "subtopics": [] },
+                  { "title": "Supranational law", "subtopics": [] }
+                ]
+              },
+              { "title": "Labor law", "subtopics": [] },
+              { "title": "Property law", "subtopics": [] },
+              { "title": "Tax law", "subtopics": [] },
+              { "title": "Tort law (outline)", "subtopics": [] }
+            ]
+          },
+          { "title": "Comparative law", "subtopics": [] },
+          { "title": "Competition law", "subtopics": [] },
+          { "title": "Constitutional law", "subtopics": [] },
+          {
+            "title": "Criminal law",
+            "subtopics": [
+              {
+                "title": "Criminal justice (outline)",
+                "subtopics": []
+              },
+              {
+                "title": "Criminal procedure",
+                "subtopics": [
+                  {
+                    "title": "Forensic science (outline)",
+                    "subtopics": []
+                  },
+                  { "title": "Police science", "subtopics": [] }
+                ]
+              }
+            ]
+          },
+          { "title": "Islamic law", "subtopics": [] },
+          { "title": "Jewish law (outline)", "subtopics": [] },
+          {
+            "title": "Jurisprudence (Philosophy of Law)",
+            "subtopics": []
+          },
+          {
+            "title": "Legal management",
+            "subtopics": [
+              { "title": "Commercial law", "subtopics": [] },
+              { "title": "Corporate law", "subtopics": [] }
+            ]
+          },
+          { "title": "Procedural law", "subtopics": [] },
+          { "title": "Substantive law", "subtopics": [] }
+        ]
+      },
+      {
+        "title": "Philosophy",
+        "subtopics": [
+          { "title": "Aesthetics (outline)", "subtopics": [] },
+          {
+            "title": "Applied philosophy",
+            "subtopics": [
+              { "title": "Philosophy of economics", "subtopics": [] },
+              { "title": "Philosophy of education", "subtopics": [] },
+              { "title": "Philosophy of engineering", "subtopics": [] },
+              { "title": "Philosophy of history", "subtopics": [] },
+              { "title": "Philosophy of language", "subtopics": [] },
+              { "title": "Philosophy of law", "subtopics": [] },
+              { "title": "Philosophy of mathematics", "subtopics": [] },
+              { "title": "Philosophy of music", "subtopics": [] },
+              { "title": "Philosophy of psychology", "subtopics": [] },
+              { "title": "Philosophy of religion", "subtopics": [] },
+              {
+                "title": "Philosophy of physical sciences",
+                "subtopics": [
+                  { "title": "Philosophy of biology", "subtopics": [] },
+                  { "title": "Philosophy of chemistry", "subtopics": [] },
+                  { "title": "Philosophy of physics", "subtopics": [] }
+                ]
+              },
+              { "title": "Philosophy of social science", "subtopics": [] },
+              { "title": "Philosophy of technology", "subtopics": [] },
+              { "title": "Systems philosophy", "subtopics": [] }
+            ]
+          },
+          {
+            "title": "Epistemology (outline)",
+            "subtopics": [
+              { "title": "Justification", "subtopics": [] },
+              { "title": "Reasoning errors", "subtopics": [] }
+            ]
+          },
+          {
+            "title": "Ethics (outline)",
+            "subtopics": [
+              {
+                "title": "Applied ethics",
+                "subtopics": [
+                  { "title": "Animal rights", "subtopics": [] },
+                  { "title": "Bioethics", "subtopics": [] },
+                  { "title": "Environmental ethics", "subtopics": [] }
+                ]
+              },
+              { "title": "Meta-ethics", "subtopics": [] },
+              {
+                "title": "Moral psychology, Descriptive ethics, Value theory",
+                "subtopics": []
+              },
+              {
+                "title": "Normative ethics",
+                "subtopics": [{ "title": "Virtue ethics", "subtopics": [] }]
+              }
+            ]
+          },
+          {
+            "title": "Logic (outline)",
+            "subtopics": [
+              { "title": "Mathematical logic", "subtopics": [] },
+              { "title": "Philosophical logic", "subtopics": [] }
+            ]
+          },
+          { "title": "Meta-philosophy", "subtopics": [] },
+          {
+            "title": "Metaphysics (outline)",
+            "subtopics": [
+              { "title": "Philosophy of Action", "subtopics": [] },
+              {
+                "title": "Determinism and Free will",
+                "subtopics": []
+              },
+              { "title": "Ontology", "subtopics": [] },
+              {
+                "title": "Philosophy of mind",
+                "subtopics": [
+                  { "title": "Philosophy of pain", "subtopics": [] },
+                  {
+                    "title": "Philosophy of artificial intelligence",
+                    "subtopics": []
+                  },
+                  { "title": "Philosophy of perception", "subtopics": [] }
+                ]
+              },
+              { "title": "Philosophy of space and time", "subtopics": [] },
+              { "title": "Teleology", "subtopics": [] },
+              {
+                "title": "Theism and Atheism",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "title": "Philosophical traditions and schools",
+            "subtopics": [
+              { "title": "African philosophy", "subtopics": [] },
+              { "title": "Analytic philosophy", "subtopics": [] },
+              { "title": "Aristotelianism", "subtopics": [] },
+              { "title": "Continental philosophy", "subtopics": [] },
+              { "title": "Eastern philosophy", "subtopics": [] },
+              { "title": "Feminist philosophy", "subtopics": [] },
+              { "title": "Platonism", "subtopics": [] }
+            ]
+          },
+          {
+            "title": "Social philosophy and political philosophy",
+            "subtopics": [
+              { "title": "Anarchism (outline)", "subtopics": [] },
+              { "title": "Feminist philosophy", "subtopics": [] },
+              { "title": "Libertarianism (outline)", "subtopics": [] },
+              { "title": "Marxism", "subtopics": [] }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Theology",
+        "subtopics": [
+          {
+            "title": "Biblical studies",
+            "subtopics": [
+              {
+                "title": "Biblical Hebrew, Koine Greek, Aramaic",
+                "subtopics": []
+              }
+            ]
+          },
+          { "title": "Religious studies", "subtopics": [] },
+          {
+            "title": "Buddhist theology",
+            "subtopics": [{ "title": "Pali Studies", "subtopics": [] }]
+          },
+          {
+            "title": "Christian theology",
+            "subtopics": [
+              { "title": "Anglican theology", "subtopics": [] },
+              { "title": "Baptist theology", "subtopics": [] },
+              { "title": "Catholic theology", "subtopics": [] },
+              { "title": "Eastern Orthodox theology", "subtopics": [] },
+              { "title": "Protestant theology", "subtopics": [] }
+            ]
+          },
+          {
+            "title": "Hindu theology",
+            "subtopics": [{ "title": "Sanskrit Studies", "subtopics": [] }]
+          },
+          { "title": "Jewish theology", "subtopics": [] },
+          {
+            "title": "Muslim theology",
+            "subtopics": [{ "title": "Arabic Studies", "subtopics": [] }]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Social Sciences",
+    "subtopics": [
+      {
+        "title": "Anthropology",
+        "subtopics": [
+          { "title": "Biological anthropology", "subtopics": [] },
+          { "title": "Linguistic anthropology", "subtopics": [] },
+          { "title": "Cultural anthropology", "subtopics": [] },
+          { "title": "Social anthropology", "subtopics": [] },
+          { "title": "Archaeology", "subtopics": [] }
+        ]
+      },
+      {
+        "title": "Economics",
+        "subtopics": [
+          { "title": "Agricultural economics", "subtopics": [] },
+          { "title": "Anarchist economics", "subtopics": [] },
+          { "title": "Applied economics", "subtopics": [] },
+          { "title": "Behavioural economics", "subtopics": [] },
+          { "title": "Bioeconomics", "subtopics": [] },
+          { "title": "Complexity economics", "subtopics": [] },
+          { "title": "Computational economics", "subtopics": [] },
+          { "title": "Consumer economics", "subtopics": [] },
+          { "title": "Development economics", "subtopics": [] },
+          { "title": "Ecological economics", "subtopics": [] },
+          { "title": "Econometrics", "subtopics": [] },
+          { "title": "Economic geography", "subtopics": [] },
+          { "title": "Economic sociology", "subtopics": [] },
+          { "title": "Economic systems", "subtopics": [] },
+          { "title": "Education economics", "subtopics": [] },
+          { "title": "Energy economics", "subtopics": [] },
+          { "title": "Entrepreneurial economics", "subtopics": [] },
+          { "title": "Environmental economics", "subtopics": [] },
+          { "title": "Evolutionary economics", "subtopics": [] },
+          { "title": "Experimental economics", "subtopics": [] },
+          { "title": "Feminist economics", "subtopics": [] },
+          { "title": "Financial econometrics", "subtopics": [] },
+          { "title": "Financial economics", "subtopics": [] },
+          { "title": "Green economics", "subtopics": [] },
+          { "title": "Growth economics", "subtopics": [] },
+          { "title": "Human development theory", "subtopics": [] },
+          { "title": "Industrial organization", "subtopics": [] },
+          { "title": "Information economics", "subtopics": [] },
+          { "title": "Institutional economics", "subtopics": [] },
+          { "title": "International economics", "subtopics": [] },
+          { "title": "Islamic economics", "subtopics": [] },
+          { "title": "Labor economics", "subtopics": [] },
+          { "title": "Law and economics", "subtopics": [] },
+          { "title": "Macroeconomics", "subtopics": [] },
+          { "title": "Managerial economics", "subtopics": [] },
+          { "title": "Marxian economics", "subtopics": [] },
+          { "title": "Mathematical economics", "subtopics": [] },
+          { "title": "Microeconomics", "subtopics": [] },
+          { "title": "Monetary economics", "subtopics": [] },
+          { "title": "Neuroeconomics", "subtopics": [] },
+          { "title": "Participatory economics", "subtopics": [] },
+          { "title": "Political economy", "subtopics": [] },
+          { "title": "Public economics", "subtopics": [] },
+          { "title": "Public finance", "subtopics": [] },
+          { "title": "Real estate economics", "subtopics": [] },
+          { "title": "Resource economics", "subtopics": [] },
+          { "title": "Social choice theory", "subtopics": [] },
+          { "title": "Socialist economics", "subtopics": [] },
+          { "title": "Socioeconomics", "subtopics": [] },
+          { "title": "Transport economics", "subtopics": [] },
+          { "title": "Welfare economics", "subtopics": [] }
+        ]
+      },
+      {
+        "title": "Geography",
+        "subtopics": [
+          {
+            "title": "Physical geography",
+            "subtopics": [
+              { "title": "Atmology", "subtopics": [] },
+              { "title": "Biogeography", "subtopics": [] },
+              { "title": "Climatology", "subtopics": [] },
+              { "title": "Coastal geography", "subtopics": [] },
+              { "title": "Emergency management", "subtopics": [] },
+              { "title": "Environmental geography", "subtopics": [] },
+              { "title": "Geobiology", "subtopics": [] },
+              { "title": "Geochemistry", "subtopics": [] },
+              { "title": "Geology", "subtopics": [] },
+              { "title": "Geomatics", "subtopics": [] },
+              { "title": "Geomorphology", "subtopics": [] },
+              { "title": "Geophysics", "subtopics": [] },
+              { "title": "Glaciology", "subtopics": [] },
+              { "title": "Hydrology", "subtopics": [] },
+              { "title": "Landscape ecology", "subtopics": [] },
+              { "title": "Lithology", "subtopics": [] },
+              { "title": "Meteorology", "subtopics": [] },
+              { "title": "Mineralogy", "subtopics": [] },
+              { "title": "Oceanography", "subtopics": [] },
+              { "title": "Palaeogeography", "subtopics": [] },
+              { "title": "Palaeontology", "subtopics": [] },
+              { "title": "Petrology", "subtopics": [] },
+              { "title": "Quaternary science", "subtopics": [] },
+              { "title": "Soil geography", "subtopics": [] }
+            ]
+          },
+          {
+            "title": "Human geography",
+            "subtopics": [
+              { "title": "Behavioural geography", "subtopics": [] },
+              { "title": "Cognitive geography", "subtopics": [] },
+              { "title": "Cultural geography", "subtopics": [] },
+              { "title": "Development geography", "subtopics": [] },
+              { "title": "Economic geography", "subtopics": [] },
+              { "title": "Health geography", "subtopics": [] },
+              { "title": "Historical geography", "subtopics": [] },
+              { "title": "Language geography", "subtopics": [] },
+              { "title": "Marketing geography", "subtopics": [] },
+              { "title": "Military geography", "subtopics": [] },
+              { "title": "Political geography", "subtopics": [] },
+              { "title": "Population geography", "subtopics": [] },
+              { "title": "Religion geography", "subtopics": [] },
+              { "title": "Social geography", "subtopics": [] },
+              { "title": "Strategic geography", "subtopics": [] },
+              { "title": "Time geography", "subtopics": [] },
+              { "title": "Tourism geography", "subtopics": [] },
+              { "title": "Transport geography", "subtopics": [] },
+              { "title": "Urban geography", "subtopics": [] }
+            ]
+          },
+          { "title": "Integrated geography", "subtopics": [] },
+          {
+            "title": "Cartography",
+            "subtopics": [
+              { "title": "Celestial cartography", "subtopics": [] },
+              { "title": "Planetary cartography", "subtopics": [] },
+              { "title": "Topography", "subtopics": [] }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Political science",
+        "subtopics": [
+          { "title": "American politics", "subtopics": [] },
+          { "title": "Canadian politics", "subtopics": [] },
+          { "title": "Civics", "subtopics": [] },
+          { "title": "Comparative politics", "subtopics": [] },
+          { "title": "European studies", "subtopics": [] },
+          {
+            "title": "Geopolitics (Political geography)",
+            "subtopics": []
+          },
+          { "title": "International relations", "subtopics": [] },
+          { "title": "International organizations", "subtopics": [] },
+          { "title": "Nationalism studies", "subtopics": [] },
+          { "title": "Peace and conflict studies", "subtopics": [] },
+          { "title": "Policy studies", "subtopics": [] },
+          { "title": "Political behavior", "subtopics": [] },
+          { "title": "Political culture", "subtopics": [] },
+          { "title": "Political economy", "subtopics": [] },
+          { "title": "Political history", "subtopics": [] },
+          { "title": "Political philosophy", "subtopics": [] },
+          { "title": "Public administration", "subtopics": [] },
+          { "title": "Public law", "subtopics": [] },
+          { "title": "Psephology", "subtopics": [] },
+          { "title": "Social choice theory", "subtopics": [] }
+        ]
+      },
+      {
+        "title": "Psychology",
+        "subtopics": [
+          { "title": "Abnormal psychology", "subtopics": [] },
+          { "title": "Applied psychology", "subtopics": [] },
+          { "title": "Biological psychology", "subtopics": [] },
+          { "title": "Clinical neuropsychology", "subtopics": [] },
+          { "title": "Clinical psychology", "subtopics": [] },
+          { "title": "Cognitive psychology", "subtopics": [] },
+          { "title": "Community psychology", "subtopics": [] },
+          { "title": "Comparative psychology", "subtopics": [] },
+          { "title": "Conservation psychology", "subtopics": [] },
+          { "title": "Consumer psychology", "subtopics": [] },
+          { "title": "Counseling psychology", "subtopics": [] },
+          { "title": "Criminal psychology", "subtopics": [] },
+          {
+            "title": "Cultural psychology",
+            "subtopics": [
+              { "title": "Asian psychology", "subtopics": [] },
+              { "title": "Black psychology", "subtopics": [] }
+            ]
+          },
+          { "title": "Developmental psychology", "subtopics": [] },
+          { "title": "Differential psychology", "subtopics": [] },
+          { "title": "Ecological psychology", "subtopics": [] },
+          { "title": "Educational psychology", "subtopics": [] },
+          { "title": "Environmental psychology", "subtopics": [] },
+          { "title": "Evolutionary psychology", "subtopics": [] },
+          { "title": "Experimental psychology", "subtopics": [] },
+          { "title": "Group psychology", "subtopics": [] },
+          { "title": "Family psychology", "subtopics": [] },
+          { "title": "Feminine psychology", "subtopics": [] },
+          { "title": "Forensic developmental psychology", "subtopics": [] },
+          { "title": "Forensic psychology", "subtopics": [] },
+          { "title": "Health psychology", "subtopics": [] },
+          { "title": "Humanistic psychology", "subtopics": [] },
+          { "title": "Indigenous psychology", "subtopics": [] },
+          { "title": "Legal psychology", "subtopics": [] },
+          { "title": "Mathematical psychology", "subtopics": [] },
+          { "title": "Media psychology", "subtopics": [] },
+          { "title": "Medical psychology", "subtopics": [] },
+          { "title": "Military psychology", "subtopics": [] },
+          {
+            "title": "Moral psychology and Descriptive ethics",
+            "subtopics": []
+          },
+          { "title": "Music psychology", "subtopics": [] },
+          { "title": "Neuropsychology", "subtopics": [] },
+          { "title": "Occupational health psychology", "subtopics": [] },
+          { "title": "Occupational psychology", "subtopics": [] },
+          { "title": "Organizational psychology", "subtopics": [] },
+          { "title": "Parapsychology (outline)", "subtopics": [] },
+          { "title": "Pediatric psychology", "subtopics": [] },
+          { "title": "Pedology (children study)", "subtopics": [] },
+          { "title": "Personality psychology", "subtopics": [] },
+          { "title": "Phenomenology", "subtopics": [] },
+          { "title": "Political psychology", "subtopics": [] },
+          { "title": "Positive psychology", "subtopics": [] },
+          { "title": "Psychoanalysis", "subtopics": [] },
+          { "title": "Psychobiology", "subtopics": [] },
+          { "title": "Psychology of religion", "subtopics": [] },
+          { "title": "Psychometrics", "subtopics": [] },
+          {
+            "title": "Psychopathology",
+            "subtopics": [{ "title": "Child psychopathology", "subtopics": [] }]
+          },
+          { "title": "Psychophysics", "subtopics": [] },
+          { "title": "Quantitative psychology", "subtopics": [] },
+          { "title": "Rehabilitation psychology", "subtopics": [] },
+          { "title": "School psychology", "subtopics": [] },
+          { "title": "Social psychology", "subtopics": [] },
+          { "title": "Sport psychology", "subtopics": [] },
+          { "title": "Traffic psychology", "subtopics": [] },
+          { "title": "Transpersonal psychology", "subtopics": [] }
+        ]
+      },
+      {
+        "title": "Sociology",
+        "subtopics": [
+          { "title": "Analytical sociology", "subtopics": [] },
+          {
+            "title": "Applied sociology",
+            "subtopics": [
+              { "title": "Leisure studies", "subtopics": [] },
+              { "title": "Political sociology", "subtopics": [] },
+              { "title": "Public sociology", "subtopics": [] },
+              { "title": "Social engineering", "subtopics": [] }
+            ]
+          },
+          { "title": "Architectural sociology", "subtopics": [] },
+          {
+            "title": "Area studies",
+            "subtopics": [
+              { "title": "African studies", "subtopics": [] },
+              {
+                "title": "American studies",
+                "subtopics": [
+                  { "title": "Appalachian studies", "subtopics": [] },
+                  { "title": "Canadian studies", "subtopics": [] },
+                  { "title": "Latin American studies", "subtopics": [] }
+                ]
+              },
+              {
+                "title": "Asian studies",
+                "subtopics": [
+                  { "title": "Central Asian studies", "subtopics": [] },
+                  { "title": "East Asian studies", "subtopics": [] },
+                  { "title": "Indology", "subtopics": [] },
+                  { "title": "Iranian studies", "subtopics": [] },
+                  { "title": "Japanese studies", "subtopics": [] },
+                  { "title": "Korean studies", "subtopics": [] },
+                  { "title": "Pakistan studies", "subtopics": [] },
+                  { "title": "Sindhology", "subtopics": [] },
+                  { "title": "Sinology (outline)", "subtopics": [] },
+                  { "title": "Southeast Asian studies", "subtopics": [] },
+                  { "title": "Thai studies", "subtopics": [] }
+                ]
+              },
+              { "title": "Australian studies", "subtopics": [] },
+              {
+                "title": "European studies",
+                "subtopics": [
+                  { "title": "Celtic studies", "subtopics": [] },
+                  { "title": "German studies", "subtopics": [] },
+                  { "title": "Sociology in Poland", "subtopics": [] },
+                  { "title": "Scandinavian studies", "subtopics": [] },
+                  { "title": "Slavic studies", "subtopics": [] }
+                ]
+              },
+              {
+                "title": "Middle Eastern studies",
+                "subtopics": [
+                  { "title": "Arab studies", "subtopics": [] },
+                  { "title": "Assyriology", "subtopics": [] },
+                  { "title": "Egyptology", "subtopics": [] },
+                  { "title": "Jewish studies", "subtopics": [] }
+                ]
+              }
+            ]
+          },
+          { "title": "Behavioral sociology", "subtopics": [] },
+          {
+            "title": "Collective behavior",
+            "subtopics": [{ "title": "Social movements", "subtopics": [] }]
+          },
+          {
+            "title": "Community informatics",
+            "subtopics": [{ "title": "Social network analysis", "subtopics": [] }]
+          },
+          { "title": "Comparative sociology", "subtopics": [] },
+          { "title": "Conflict theory", "subtopics": [] },
+          {
+            "title": "Criminology/Criminal justice (outline)",
+            "subtopics": []
+          },
+          { "title": "Critical management studies", "subtopics": [] },
+          { "title": "Critical sociology", "subtopics": [] },
+          { "title": "Cultural sociology", "subtopics": [] },
+          {
+            "title": "Cultural studies/ethnic studies",
+            "subtopics": [
+              { "title": "Africana studies", "subtopics": [] },
+              { "title": "Cross-cultural studies", "subtopics": [] },
+              { "title": "Culturology", "subtopics": [] },
+              { "title": "Deaf studies", "subtopics": [] },
+              { "title": "Ethnology", "subtopics": [] },
+              { "title": "Utopian studies", "subtopics": [] },
+              { "title": "Whiteness studies", "subtopics": [] }
+            ]
+          },
+          { "title": "Demography/Population", "subtopics": [] },
+          { "title": "Digital sociology", "subtopics": [] },
+          { "title": "Dramaturgical sociology", "subtopics": [] },
+          { "title": "Economic sociology", "subtopics": [] },
+          { "title": "Educational sociology", "subtopics": [] },
+          { "title": "Empirical sociology", "subtopics": [] },
+          { "title": "Environmental sociology", "subtopics": [] },
+          { "title": "Evolutionary sociology", "subtopics": [] },
+          { "title": "Feminist sociology", "subtopics": [] },
+          { "title": "Figurational sociology", "subtopics": [] },
+          { "title": "Futures studies (outline)", "subtopics": [] },
+          {
+            "title": "Gender studies",
+            "subtopics": [
+              { "title": "Men's studies", "subtopics": [] },
+              { "title": "Women's studies", "subtopics": [] }
+            ]
+          },
+          { "title": "Historical sociology", "subtopics": [] },
+          { "title": "Human ecology", "subtopics": [] },
+          { "title": "Humanistic sociology", "subtopics": [] },
+          { "title": "Industrial sociology", "subtopics": [] },
+          { "title": "Interactionism", "subtopics": [] },
+          {
+            "title": "Interpretive sociology",
+            "subtopics": [
+              { "title": "Ethnomethodology", "subtopics": [] },
+              { "title": "Phenomenology", "subtopics": [] },
+              { "title": "Social constructionism", "subtopics": [] },
+              { "title": "Symbolic interactionism", "subtopics": [] }
+            ]
+          },
+          { "title": "Jealousy sociology", "subtopics": [] },
+          { "title": "Macrosociology", "subtopics": [] },
+          { "title": "Marxist sociology", "subtopics": [] },
+          { "title": "Mathematical sociology", "subtopics": [] },
+          { "title": "Medical sociology", "subtopics": [] },
+          { "title": "Mesosociology", "subtopics": [] },
+          { "title": "Microsociology", "subtopics": [] },
+          { "title": "Military sociology", "subtopics": [] },
+          { "title": "Natural resource sociology", "subtopics": [] },
+          { "title": "Organizational studies", "subtopics": [] },
+          { "title": "Phenomenological sociology", "subtopics": [] },
+          { "title": "Policy sociology", "subtopics": [] },
+          { "title": "Psychoanalytic sociology", "subtopics": [] },
+          {
+            "title": "Science studies/Science and technology studies",
+            "subtopics": []
+          },
+          {
+            "title": "Sexology",
+            "subtopics": [
+              { "title": "Heterosexism", "subtopics": [] },
+              { "title": "Human sexual behavior", "subtopics": [] },
+              { "title": "Human sexuality (outline)", "subtopics": [] },
+              { "title": "Queer studies/Queer theory", "subtopics": [] },
+              { "title": "Sex education", "subtopics": [] }
+            ]
+          },
+          { "title": "Social capital", "subtopics": [] },
+          { "title": "Social change", "subtopics": [] },
+          { "title": "Social conflict theory", "subtopics": [] },
+          {
+            "title": "Social control",
+            "subtopics": [{ "title": "Pure sociology", "subtopics": [] }]
+          },
+          { "title": "Social economy", "subtopics": [] },
+          { "title": "Social philosophy", "subtopics": [] },
+          { "title": "Social policy", "subtopics": [] },
+          { "title": "Social psychology", "subtopics": [] },
+          { "title": "Social stratification", "subtopics": [] },
+          { "title": "Social theory", "subtopics": [] },
+          {
+            "title": "Social transformation",
+            "subtopics": [
+              { "title": "Computational sociology", "subtopics": [] },
+              {
+                "title": "Economic sociology/Socioeconomics",
+                "subtopics": [
+                  { "title": "Economic development", "subtopics": [] },
+                  { "title": "Social development", "subtopics": [] }
+                ]
+              }
+            ]
+          },
+          { "title": "Sociobiology", "subtopics": [] },
+          { "title": "Sociocybernetics", "subtopics": [] },
+          { "title": "Sociolinguistics", "subtopics": [] },
+          { "title": "Sociology of aging", "subtopics": [] },
+          { "title": "Sociology of agriculture", "subtopics": [] },
+          { "title": "Sociology of art", "subtopics": [] },
+          { "title": "Sociology of autism", "subtopics": [] },
+          { "title": "Sociology of childhood", "subtopics": [] },
+          { "title": "Sociology of conflict", "subtopics": [] },
+          { "title": "Sociology of culture", "subtopics": [] },
+          { "title": "Sociology of cyberspace", "subtopics": [] },
+          { "title": "Sociology of development", "subtopics": [] },
+          { "title": "Sociology of deviance", "subtopics": [] },
+          { "title": "Sociology of disaster", "subtopics": [] },
+          { "title": "Sociology of education", "subtopics": [] },
+          { "title": "Sociology of emotions", "subtopics": [] },
+          { "title": "Sociology of fatherhood", "subtopics": [] },
+          { "title": "Sociology of finance", "subtopics": [] },
+          { "title": "Sociology of food", "subtopics": [] },
+          { "title": "Sociology of gender", "subtopics": [] },
+          { "title": "Sociology of generations", "subtopics": [] },
+          { "title": "Sociology of globalization", "subtopics": [] },
+          { "title": "Sociology of government", "subtopics": [] },
+          { "title": "Sociology of health and illness", "subtopics": [] },
+          { "title": "Sociology of human consciousness", "subtopics": [] },
+          { "title": "Sociology of immigration", "subtopics": [] },
+          { "title": "Sociology of knowledge", "subtopics": [] },
+          { "title": "Sociology of language", "subtopics": [] },
+          { "title": "Sociology of law", "subtopics": [] },
+          { "title": "Sociology of leisure", "subtopics": [] },
+          { "title": "Sociology of literature", "subtopics": [] },
+          { "title": "Sociology of markets", "subtopics": [] },
+          { "title": "Sociology of marriage", "subtopics": [] },
+          { "title": "Sociology of motherhood", "subtopics": [] },
+          { "title": "Sociology of music", "subtopics": [] },
+          { "title": "Sociology of natural resources", "subtopics": [] },
+          { "title": "Sociology of organizations", "subtopics": [] },
+          {
+            "title": "Sociology of peace, war, and social conflict",
+            "subtopics": []
+          },
+          { "title": "Sociology of punishment", "subtopics": [] },
+          { "title": "Sociology of race and ethnic relations", "subtopics": [] },
+          { "title": "Sociology of religion", "subtopics": [] },
+          { "title": "Sociology of risk", "subtopics": [] },
+          { "title": "Sociology of science", "subtopics": [] },
+          { "title": "Sociology of scientific knowledge", "subtopics": [] },
+          { "title": "Sociology of social change", "subtopics": [] },
+          { "title": "Sociology of social movements", "subtopics": [] },
+          { "title": "Sociology of space", "subtopics": [] },
+          { "title": "Sociology of sport", "subtopics": [] },
+          { "title": "Sociology of technology", "subtopics": [] },
+          { "title": "Sociology of terrorism", "subtopics": [] },
+          { "title": "Sociology of the body", "subtopics": [] },
+          { "title": "Sociology of the family", "subtopics": [] },
+          { "title": "Sociology of the history of science", "subtopics": [] },
+          { "title": "Sociology of the Internet", "subtopics": [] },
+          { "title": "Sociology of work", "subtopics": [] },
+          { "title": "Sociomusicology", "subtopics": [] },
+          { "title": "Structural sociology", "subtopics": [] },
+          { "title": "Theoretical sociology", "subtopics": [] },
+          {
+            "title": "Urban studies or Urban sociology/Rural sociology",
+            "subtopics": []
+          },
+          { "title": "Victimology", "subtopics": [] },
+          { "title": "Visual sociology", "subtopics": [] }
+        ]
+      },
+      {
+        "title": "Social Work",
+        "subtopics": [
+          { "title": "Clinical Social Work", "subtopics": [] },
+          { "title": "Community practice", "subtopics": [] },
+          { "title": "Mental health", "subtopics": [] },
+          { "title": "Psychosocial rehabilitation", "subtopics": [] },
+          { "title": "Person-centered therapy", "subtopics": [] },
+          { "title": "Family therapy", "subtopics": [] },
+          { "title": "Financial social work", "subtopics": [] }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Natural Sciences",
+    "subtopics": [
+      {
+        "title": "Biology",
+        "subtopics": [
+          { "title": "Aerobiology", "subtopics": [] },
+          {
+            "title": "Anatomy",
+            "subtopics": [
+              { "title": "Comparative anatomy", "subtopics": [] },
+              { "title": "Human anatomy (outline)", "subtopics": [] }
+            ]
+          },
+          { "title": "Biochemistry (outline)", "subtopics": [] },
+          { "title": "Bioinformatics", "subtopics": [] },
+          { "title": "Biophysics (outline)", "subtopics": [] },
+          { "title": "Biotechnology (outline)", "subtopics": [] },
+          {
+            "title": "Botany (outline)",
+            "subtopics": [
+              { "title": "Ethnobotany", "subtopics": [] },
+              { "title": "Phycology", "subtopics": [] }
+            ]
+          },
+          { "title": "Cell biology (outline)", "subtopics": [] },
+          { "title": "Chronobiology", "subtopics": [] },
+          { "title": "Computational biology", "subtopics": [] },
+          { "title": "Cryobiology", "subtopics": [] },
+          {
+            "title": "Developmental biology",
+            "subtopics": [
+              { "title": "Embryology", "subtopics": [] },
+              { "title": "Teratology", "subtopics": [] }
+            ]
+          },
+          {
+            "title": "Ecology (outline)",
+            "subtopics": [
+              { "title": "Agroecology", "subtopics": [] },
+              { "title": "Ethnoecology", "subtopics": [] },
+              { "title": "Human ecology", "subtopics": [] },
+              { "title": "Landscape ecology", "subtopics": [] }
+            ]
+          },
+          { "title": "Endocrinology", "subtopics": [] },
+          { "title": "Evolutionary biology", "subtopics": [] },
+          {
+            "title": "Genetics (outline)",
+            "subtopics": [
+              { "title": "Behavioural genetics", "subtopics": [] },
+              { "title": "Molecular genetics", "subtopics": [] },
+              { "title": "Population genetics", "subtopics": [] }
+            ]
+          },
+          { "title": "Histology", "subtopics": [] },
+          { "title": "Human biology", "subtopics": [] },
+          { "title": "Immunology (outline)", "subtopics": [] },
+          { "title": "Limnology", "subtopics": [] },
+          { "title": "Linnaean taxonomy", "subtopics": [] },
+          { "title": "Marine biology", "subtopics": [] },
+          { "title": "Mathematical biology", "subtopics": [] },
+          {
+            "title": "Microbiology",
+            "subtopics": [
+              { "title": "Bacteriology", "subtopics": [] },
+              { "title": "Protistology", "subtopics": [] }
+            ]
+          },
+          { "title": "Molecular biology", "subtopics": [] },
+          { "title": "Mycology", "subtopics": [] },
+          {
+            "title": "Neuroscience (outline)",
+            "subtopics": [{ "title": "Behavioral neuroscience", "subtopics": [] }]
+          },
+          { "title": "Nutrition (outline)", "subtopics": [] },
+          {
+            "title": "Paleobiology",
+            "subtopics": [{ "title": "Paleontology", "subtopics": [] }]
+          },
+          { "title": "Parasitology", "subtopics": [] },
+          {
+            "title": "Pathology",
+            "subtopics": [
+              { "title": "Anatomical pathology", "subtopics": [] },
+              { "title": "Clinical pathology", "subtopics": [] },
+              { "title": "Dermatopathology", "subtopics": [] },
+              { "title": "Forensic pathology", "subtopics": [] },
+              { "title": "Hematopathology", "subtopics": [] },
+              { "title": "Histopathology", "subtopics": [] },
+              { "title": "Molecular pathology", "subtopics": [] },
+              { "title": "Surgical pathology", "subtopics": [] }
+            ]
+          },
+          {
+            "title": "Physiology",
+            "subtopics": [
+              {
+                "title": "Human physiology",
+                "subtopics": [{ "title": "Exercise physiology", "subtopics": [] }]
+              }
+            ]
+          },
+          { "title": "Structural Biology", "subtopics": [] },
+          { "title": "Systematics (Taxonomy)", "subtopics": [] },
+          { "title": "Systems biology", "subtopics": [] },
+          {
+            "title": "Virology",
+            "subtopics": [{ "title": "Molecular virology", "subtopics": [] }]
+          },
+          { "title": "Xenobiology", "subtopics": [] },
+          {
+            "title": "Zoology (outline)",
+            "subtopics": [
+              { "title": "Animal communications", "subtopics": [] },
+              { "title": "Apiology", "subtopics": [] },
+              { "title": "Arachnology", "subtopics": [] },
+              { "title": "Carcinology", "subtopics": [] },
+              { "title": "Cetology", "subtopics": [] },
+              {
+                "title": "Entomology",
+                "subtopics": [{ "title": "Forensic entomology", "subtopics": [] }]
+              },
+              { "title": "Ethnozoology", "subtopics": [] },
+              { "title": "Ethology", "subtopics": [] },
+              { "title": "Helminthology", "subtopics": [] },
+              { "title": "Herpetology", "subtopics": [] },
+              { "title": "Ichthyology (outline)", "subtopics": [] },
+              { "title": "Mammalogy", "subtopics": [] },
+              {
+                "title": "Malacology",
+                "subtopics": [{ "title": "Conchology", "subtopics": [] }]
+              },
+              { "title": "Myrmecology (outline)", "subtopics": [] },
+              { "title": "Nematology", "subtopics": [] },
+              { "title": "Neuroethology", "subtopics": [] },
+              { "title": "Oology", "subtopics": [] },
+              { "title": "Ornithology (outline)", "subtopics": [] },
+              { "title": "Planktology", "subtopics": [] },
+              { "title": "Primatology", "subtopics": [] },
+              { "title": "Zootomy", "subtopics": [] },
+              { "title": "Zoosemiotics", "subtopics": [] }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Chemistry",
+        "subtopics": [
+          { "title": "Agrochemistry", "subtopics": [] },
+          { "title": "Analytical chemistry", "subtopics": [] },
+          { "title": "Astrochemistry", "subtopics": [] },
+          { "title": "Atmospheric chemistry", "subtopics": [] },
+          { "title": "Biochemistry (outline)", "subtopics": [] },
+          { "title": "Chemical biology", "subtopics": [] },
+          {
+            "title": "Chemical engineering (outline)",
+            "subtopics": []
+          },
+          { "title": "Cheminformatics", "subtopics": [] },
+          { "title": "Computational chemistry", "subtopics": [] },
+          { "title": "Cosmochemistry", "subtopics": [] },
+          { "title": "Electrochemistry", "subtopics": [] },
+          { "title": "Environmental chemistry", "subtopics": [] },
+          { "title": "Femtochemistry", "subtopics": [] },
+          { "title": "Flavor", "subtopics": [] },
+          { "title": "Flow chemistry", "subtopics": [] },
+          { "title": "Geochemistry", "subtopics": [] },
+          { "title": "Green chemistry", "subtopics": [] },
+          { "title": "Histochemistry", "subtopics": [] },
+          { "title": "Hydrogenation", "subtopics": [] },
+          { "title": "Immunochemistry", "subtopics": [] },
+          { "title": "Inorganic chemistry", "subtopics": [] },
+          { "title": "Marine chemistry", "subtopics": [] },
+          { "title": "Mathematical chemistry", "subtopics": [] },
+          { "title": "Mechanochemistry", "subtopics": [] },
+          { "title": "Medicinal chemistry", "subtopics": [] },
+          { "title": "Molecular biology", "subtopics": [] },
+          { "title": "Molecular mechanics", "subtopics": [] },
+          { "title": "Nanotechnology", "subtopics": [] },
+          { "title": "Natural product chemistry", "subtopics": [] },
+          { "title": "Neurochemistry", "subtopics": [] },
+          { "title": "Oenology", "subtopics": [] },
+          { "title": "Organic chemistry (outline)", "subtopics": [] },
+          { "title": "Organometallic chemistry", "subtopics": [] },
+          { "title": "Petrochemistry", "subtopics": [] },
+          { "title": "Pharmacology", "subtopics": [] },
+          { "title": "Photochemistry", "subtopics": [] },
+          { "title": "Physical chemistry", "subtopics": [] },
+          { "title": "Physical organic chemistry", "subtopics": [] },
+          { "title": "Phytochemistry", "subtopics": [] },
+          { "title": "Polymer chemistry", "subtopics": [] },
+          { "title": "Quantum chemistry", "subtopics": [] },
+          { "title": "Radiochemistry", "subtopics": [] },
+          { "title": "Solid-state chemistry", "subtopics": [] },
+          { "title": "Sonochemistry", "subtopics": [] },
+          { "title": "Supramolecular chemistry", "subtopics": [] },
+          { "title": "Surface chemistry", "subtopics": [] },
+          { "title": "Synthetic chemistry", "subtopics": [] },
+          { "title": "Theoretical chemistry", "subtopics": [] },
+          { "title": "Thermochemistry", "subtopics": [] }
+        ]
+      },
+      {
+        "title": "Earth science",
+        "subtopics": [
+          { "title": "Edaphology", "subtopics": [] },
+          { "title": "Environmental chemistry", "subtopics": [] },
+          { "title": "Environmental science", "subtopics": [] },
+          { "title": "Gemology", "subtopics": [] },
+          { "title": "Geochemistry", "subtopics": [] },
+          { "title": "Geodesy", "subtopics": [] },
+          {
+            "title": "Physical geography (outline)",
+            "subtopics": [
+              {
+                "title": "Atmospheric science / Meteorology (outline)",
+                "subtopics": []
+              },
+              {
+                "title": "Biogeography / Phytogeography",
+                "subtopics": []
+              },
+              {
+                "title": "Climatology / Paleoclimatology / Palaeogeography",
+                "subtopics": []
+              },
+              {
+                "title": "Coastal geography / Oceanography",
+                "subtopics": []
+              },
+              {
+                "title": "Edaphology / Pedology or Soil science",
+                "subtopics": []
+              },
+              { "title": "Geobiology", "subtopics": [] },
+              {
+                "title": "Geology (outline) (Geomorphology, Mineralogy, Petrology, Sedimentology, Speleology, Tectonics, Volcanology)",
+                "subtopics": []
+              },
+              { "title": "Geostatistics", "subtopics": [] },
+              { "title": "Glaciology", "subtopics": [] },
+              {
+                "title": "Hydrology (outline)/ Limnology / Hydrogeology",
+                "subtopics": []
+              },
+              { "title": "Landscape ecology", "subtopics": [] },
+              { "title": "Quaternary science", "subtopics": [] }
+            ]
+          },
+          { "title": "Geophysics (outline)", "subtopics": [] },
+          {
+            "title": "Paleontology",
+            "subtopics": [
+              { "title": "Paleobiology", "subtopics": [] },
+              { "title": "Paleoecology", "subtopics": [] }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Space sciences",
+        "subtopics": [
+          { "title": "Astrobiology", "subtopics": [] },
+          {
+            "title": "Astronomy (outline)",
+            "subtopics": [
+              {
+                "title": "Observational astronomy",
+                "subtopics": [
+                  { "title": "Gamma ray astronomy", "subtopics": [] },
+                  { "title": "Infrared astronomy", "subtopics": [] },
+                  { "title": "Microwave astronomy", "subtopics": [] },
+                  { "title": "Optical astronomy", "subtopics": [] },
+                  { "title": "Radio astronomy", "subtopics": [] },
+                  { "title": "UV astronomy", "subtopics": [] },
+                  { "title": "X-ray astronomy", "subtopics": [] }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Astrophysics",
+            "subtopics": [
+              {
+                "title": "Gravitational astronomy",
+                "subtopics": [{ "title": "Black holes", "subtopics": [] }]
+              }
+            ]
+          },
+          { "title": "Interstellar medium", "subtopics": [] },
+          {
+            "title": "Numerical simulations",
+            "subtopics": [
+              { "title": "Astrophysical plasma", "subtopics": [] },
+              { "title": "Galaxy formation and evolution", "subtopics": [] },
+              { "title": "High-energy astrophysics", "subtopics": [] },
+              { "title": "Hydrodynamics", "subtopics": [] },
+              { "title": "Magnetohydrodynamics", "subtopics": [] },
+              { "title": "Star formation", "subtopics": [] }
+            ]
+          },
+          { "title": "Physical cosmology", "subtopics": [] },
+          {
+            "title": "Stellar astrophysics",
+            "subtopics": [
+              { "title": "Helioseismology", "subtopics": [] },
+              { "title": "Stellar evolution", "subtopics": [] },
+              { "title": "Stellar nucleosynthesis", "subtopics": [] }
+            ]
+          },
+          { "title": "Planetary science", "subtopics": [] }
+        ]
+      },
+      {
+        "title": "Physics",
+        "subtopics": [
+          { "title": "Acoustics", "subtopics": [] },
+          { "title": "Aerodynamics", "subtopics": [] },
+          { "title": "Applied physics", "subtopics": [] },
+          { "title": "Astrophysics", "subtopics": [] },
+          { "title": "Atomic, molecular, and optical physics", "subtopics": [] },
+          { "title": "Biophysics (outline)", "subtopics": [] },
+          { "title": "Computational physics", "subtopics": [] },
+          { "title": "Condensed matter physics", "subtopics": [] },
+          { "title": "Cryogenics", "subtopics": [] },
+          { "title": "Electricity", "subtopics": [] },
+          { "title": "Electromagnetism", "subtopics": [] },
+          { "title": "Elementary particle physics", "subtopics": [] },
+          { "title": "Experimental physics", "subtopics": [] },
+          { "title": "Fluid dynamics", "subtopics": [] },
+          { "title": "Geophysics (outline)", "subtopics": [] },
+          { "title": "Mathematical physics", "subtopics": [] },
+          { "title": "Mechanics", "subtopics": [] },
+          { "title": "Medical physics", "subtopics": [] },
+          { "title": "Molecular physics", "subtopics": [] },
+          { "title": "Newtonian dynamics", "subtopics": [] },
+          { "title": "Nuclear physics", "subtopics": [] },
+          { "title": "Optics", "subtopics": [] },
+          { "title": "Plasma physics", "subtopics": [] },
+          { "title": "Quantum physics", "subtopics": [] },
+          { "title": "Solid mechanics", "subtopics": [] },
+          { "title": "Solid state physics", "subtopics": [] },
+          { "title": "Statistical mechanics", "subtopics": [] },
+          { "title": "Theoretical physics", "subtopics": [] },
+          { "title": "Thermal physics", "subtopics": [] },
+          { "title": "Thermodynamics", "subtopics": [] }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Formal Sciences",
+    "subtopics": [
+      {
+        "title": "Computer Science",
+        "subtopics": [
+          {
+            "title": "Logic in computer science",
+            "subtopics": [
+              {
+                "title": "Formal methods (Formal verification)",
+                "subtopics": []
+              },
+              { "title": "Logic programming", "subtopics": [] },
+              {
+                "title": "Multi-valued logic",
+                "subtopics": [{ "title": "Fuzzy logic", "subtopics": [] }]
+              },
+              { "title": "Programming language semantics", "subtopics": [] },
+              { "title": "Type theory", "subtopics": [] }
+            ]
+          },
+          {
+            "title": "Algorithms",
+            "subtopics": [
+              { "title": "Computational geometry", "subtopics": [] },
+              { "title": "Distributed algorithms", "subtopics": [] },
+              { "title": "Parallel algorithms", "subtopics": [] },
+              { "title": "Randomized algorithms", "subtopics": [] }
+            ]
+          },
+          {
+            "title": "Artificial intelligence (outline)",
+            "subtopics": [
+              {
+                "title": "Cognitive science",
+                "subtopics": [
+                  { "title": "Automated reasoning", "subtopics": [] },
+                  {
+                    "title": "Computer vision (outline)",
+                    "subtopics": []
+                  },
+                  {
+                    "title": "Machine learning",
+                    "subtopics": [
+                      { "title": "Artificial neural network", "subtopics": [] },
+                      { "title": "Support vector machine", "subtopics": [] }
+                    ]
+                  },
+                  {
+                    "title": "Natural language processing (Computational linguistics)",
+                    "subtopics": []
+                  }
+                ]
+              },
+              { "title": "Expert systems", "subtopics": [] },
+              { "title": "Robotics (outline)", "subtopics": [] }
+            ]
+          },
+          { "title": "Data structures", "subtopics": [] },
+          { "title": "Computer architecture", "subtopics": [] },
+          {
+            "title": "Computer graphics",
+            "subtopics": [
+              { "title": "Image processing", "subtopics": [] },
+              { "title": "Scientific visualization", "subtopics": [] }
+            ]
+          },
+          {
+            "title": "Computer communications (networks)",
+            "subtopics": [
+              { "title": "Cloud computing", "subtopics": [] },
+              { "title": "Information theory", "subtopics": [] },
+              { "title": "Internet, World Wide Web", "subtopics": [] },
+              { "title": "Ubiquitous computing", "subtopics": [] },
+              {
+                "title": "Wireless computing (Mobile computing)",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "title": "Computer security and reliability",
+            "subtopics": [
+              { "title": "Cryptography", "subtopics": [] },
+              { "title": "Fault-tolerant computing", "subtopics": [] }
+            ]
+          },
+          {
+            "title": "Computing in mathematics, natural sciences, engineering, and medicine",
+            "subtopics": [
+              { "title": "Algebraic (symbolic) computation", "subtopics": [] },
+              {
+                "title": "Computational biology (bioinformatics)",
+                "subtopics": []
+              },
+              { "title": "Computational chemistry", "subtopics": [] },
+              { "title": "Computational mathematics", "subtopics": [] },
+              { "title": "Computational neuroscience", "subtopics": [] },
+              { "title": "Computational number theory", "subtopics": [] },
+              { "title": "Computational physics", "subtopics": [] },
+              {
+                "title": "Computer-aided engineering",
+                "subtopics": [
+                  { "title": "Computational fluid dynamics", "subtopics": [] },
+                  { "title": "Finite element analysis", "subtopics": [] }
+                ]
+              },
+              { "title": "Numerical analysis", "subtopics": [] },
+              {
+                "title": "Scientific computing (Computational science)",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "title": "Computing in social sciences, arts, humanities, and professions",
+            "subtopics": [
+              { "title": "Community informatics", "subtopics": [] },
+              { "title": "Computational economics", "subtopics": [] },
+              { "title": "Computational finance", "subtopics": [] },
+              { "title": "Computational sociology", "subtopics": [] },
+              {
+                "title": "Digital humanities (Humanities computing)",
+                "subtopics": []
+              },
+              { "title": "History of computer hardware", "subtopics": [] },
+              {
+                "title": "History of computer science (outline)",
+                "subtopics": []
+              },
+              { "title": "Humanistic informatics", "subtopics": [] },
+              {
+                "title": "Database (outline)",
+                "subtopics": [
+                  { "title": "Distributed database", "subtopics": [] },
+                  { "title": "Object database", "subtopics": [] },
+                  { "title": "Relational database", "subtopics": [] }
+                ]
+              },
+              { "title": "Data management", "subtopics": [] },
+              { "title": "Data mining", "subtopics": [] },
+              { "title": "Information architecture", "subtopics": [] },
+              { "title": "Information management", "subtopics": [] },
+              { "title": "Information retrieval", "subtopics": [] },
+              { "title": "Knowledge management", "subtopics": [] },
+              {
+                "title": "Multimedia, hypermedia",
+                "subtopics": [
+                  { "title": "Sound and music computing", "subtopics": [] }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Distributed computing",
+            "subtopics": [{ "title": "Grid computing", "subtopics": [] }]
+          },
+          { "title": "Human-computer interaction", "subtopics": [] },
+          { "title": "Operating systems", "subtopics": [] },
+          {
+            "title": "Parallel computing",
+            "subtopics": [
+              { "title": "High-performance computing", "subtopics": [] }
+            ]
+          },
+          {
+            "title": "Programming languages",
+            "subtopics": [
+              { "title": "Compilers", "subtopics": [] },
+              {
+                "title": "Programming paradigms",
+                "subtopics": [
+                  { "title": "Concurrent programming", "subtopics": [] },
+                  { "title": "Functional programming", "subtopics": [] },
+                  { "title": "Imperative programming", "subtopics": [] },
+                  { "title": "Logic programming", "subtopics": [] },
+                  { "title": "Object-oriented programming", "subtopics": [] }
+                ]
+              },
+              { "title": "Program semantics", "subtopics": [] },
+              { "title": "Type theory", "subtopics": [] }
+            ]
+          },
+          { "title": "Quantum computing", "subtopics": [] },
+          {
+            "title": "Software engineering",
+            "subtopics": [
+              {
+                "title": "Formal methods (Formal verification)",
+                "subtopics": []
+              }
+            ]
+          },
+          {
+            "title": "Theory of computation",
+            "subtopics": [
+              {
+                "title": "Automata theory (Formal languages)",
+                "subtopics": []
+              },
+              { "title": "Computability theory", "subtopics": [] },
+              { "title": "Computational complexity theory", "subtopics": [] },
+              { "title": "Concurrency theory", "subtopics": [] }
+            ]
+          },
+          { "title": "VLSI design", "subtopics": [] }
+        ]
+      },
+      {
+        "title": "Mathematics",
+        "subtopics": [
+          {
+            "title": "Pure Mathematics",
+            "subtopics": [
+              {
+                "title": "Mathematical logic and Foundations of mathematics",
+                "subtopics": [
+                  { "title": "Intuitionistic logic", "subtopics": [] },
+                  { "title": "Modal logic", "subtopics": [] },
+                  { "title": "Model theory", "subtopics": [] },
+                  { "title": "Proof theory", "subtopics": [] },
+                  { "title": "Recursion theory", "subtopics": [] },
+                  { "title": "Set theory", "subtopics": [] }
+                ]
+              },
+              {
+                "title": "Algebra (outline)",
+                "subtopics": [
+                  { "title": "Associative algebra", "subtopics": [] },
+                  {
+                    "title": "Category theory",
+                    "subtopics": [{ "title": "Topos theory", "subtopics": [] }]
+                  },
+                  { "title": "Differential algebra", "subtopics": [] },
+                  { "title": "Field theory", "subtopics": [] },
+                  {
+                    "title": "Group theory",
+                    "subtopics": [
+                      { "title": "Group representation", "subtopics": [] }
+                    ]
+                  },
+                  { "title": "Homological algebra", "subtopics": [] },
+                  { "title": "K-theory", "subtopics": [] },
+                  {
+                    "title": "Lattice theory (Order theory)",
+                    "subtopics": []
+                  },
+                  { "title": "Lie algebra", "subtopics": [] },
+                  {
+                    "title": "Linear algebra (Vector space)",
+                    "subtopics": []
+                  },
+                  { "title": "Multilinear algebra", "subtopics": [] },
+                  { "title": "Non-associative algebra", "subtopics": [] },
+                  { "title": "Representation theory", "subtopics": [] },
+                  {
+                    "title": "Ring theory",
+                    "subtopics": [
+                      { "title": "Commutative algebra", "subtopics": [] },
+                      { "title": "Noncommutative algebra", "subtopics": [] }
+                    ]
+                  },
+                  { "title": "Universal algebra", "subtopics": [] }
+                ]
+              },
+              {
+                "title": "Analysis",
+                "subtopics": [
+                  { "title": "Complex analysis", "subtopics": [] },
+                  {
+                    "title": "Functional analysis",
+                    "subtopics": [{ "title": "Operator theory", "subtopics": [] }]
+                  },
+                  {
+                    "title": "Harmonic analysis",
+                    "subtopics": [{ "title": "Fourier analysis", "subtopics": [] }]
+                  },
+                  { "title": "Non-standard analysis", "subtopics": [] },
+                  { "title": "Ordinary differential equations", "subtopics": [] },
+                  { "title": "p-adic analysis", "subtopics": [] },
+                  { "title": "Partial differential equations", "subtopics": [] },
+                  {
+                    "title": "Real analysis",
+                    "subtopics": [
+                      { "title": "Calculus (outline)", "subtopics": [] }
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Probability theory",
+                "subtopics": [
+                  { "title": "Ergodic theory", "subtopics": [] },
+                  {
+                    "title": "Measure theory",
+                    "subtopics": [{ "title": "Integral geometry", "subtopics": [] }]
+                  },
+                  { "title": "Stochastic process", "subtopics": [] }
+                ]
+              },
+              {
+                "title": "Geometry (outline) and Topology",
+                "subtopics": [
+                  { "title": "Affine geometry", "subtopics": [] },
+                  { "title": "Algebraic geometry", "subtopics": [] },
+                  { "title": "Algebraic topology", "subtopics": [] },
+                  { "title": "Convex geometry", "subtopics": [] },
+                  { "title": "Differential topology", "subtopics": [] },
+                  { "title": "Discrete geometry", "subtopics": [] },
+                  { "title": "Finite geometry", "subtopics": [] },
+                  { "title": "Galois geometry", "subtopics": [] },
+                  { "title": "General topology", "subtopics": [] },
+                  { "title": "Geometric topology", "subtopics": [] },
+                  { "title": "Integral geometry", "subtopics": [] },
+                  { "title": "Noncommutative geometry", "subtopics": [] },
+                  { "title": "Non-Euclidean geometry", "subtopics": [] },
+                  { "title": "Projective geometry", "subtopics": [] }
+                ]
+              },
+              {
+                "title": "Number theory",
+                "subtopics": [
+                  { "title": "Algebraic number theory", "subtopics": [] },
+                  { "title": "Analytic number theory", "subtopics": [] },
+                  { "title": "Arithmetic combinatorics", "subtopics": [] },
+                  { "title": "Geometric number theory", "subtopics": [] }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Applied mathematics",
+            "subtopics": [
+              { "title": "Approximation theory", "subtopics": [] },
+              {
+                "title": "Combinatorics (outline)",
+                "subtopics": [{ "title": "Coding theory", "subtopics": [] }]
+              },
+              { "title": "Cryptography", "subtopics": [] },
+              {
+                "title": "Dynamical systems",
+                "subtopics": [
+                  { "title": "Chaos theory", "subtopics": [] },
+                  { "title": "Fractal geometry", "subtopics": [] }
+                ]
+              },
+              { "title": "Game theory", "subtopics": [] },
+              { "title": "Graph theory", "subtopics": [] },
+              { "title": "Information theory", "subtopics": [] },
+              {
+                "title": "Mathematical physics",
+                "subtopics": [
+                  { "title": "Quantum field theory", "subtopics": [] },
+                  {
+                    "title": "Quantum gravity",
+                    "subtopics": [{ "title": "String theory", "subtopics": [] }]
+                  },
+                  { "title": "Quantum mechanics", "subtopics": [] },
+                  { "title": "Statistical mechanics", "subtopics": [] }
+                ]
+              },
+              { "title": "Numerical analysis", "subtopics": [] },
+              {
+                "title": "Operations research",
+                "subtopics": [
+                  { "title": "Assignment problem", "subtopics": [] },
+                  { "title": "Decision analysis", "subtopics": [] },
+                  { "title": "Dynamic programming", "subtopics": [] },
+                  { "title": "Inventory theory", "subtopics": [] },
+                  { "title": "Linear programming", "subtopics": [] },
+                  { "title": "Mathematical optimization", "subtopics": [] },
+                  { "title": "Optimal maintenance", "subtopics": [] },
+                  { "title": "Real options analysis", "subtopics": [] },
+                  { "title": "Scheduling", "subtopics": [] },
+                  { "title": "Stochastic processes", "subtopics": [] },
+                  { "title": "Systems analysis", "subtopics": [] }
+                ]
+              },
+              {
+                "title": "Statistics (outline)",
+                "subtopics": [
+                  { "title": "Actuarial science", "subtopics": [] },
+                  { "title": "Demography", "subtopics": [] },
+                  { "title": "Econometrics", "subtopics": [] },
+                  { "title": "Mathematical statistics", "subtopics": [] },
+                  { "title": "Data visualization", "subtopics": [] }
+                ]
+              },
+              {
+                "title": "Theory of computation",
+                "subtopics": [
+                  { "title": "Computational complexity theory", "subtopics": [] }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Applied Sciences",
+    "subtopics": [
+      {
+        "title": "Business",
+        "subtopics": [
+          { "title": "Accounting", "subtopics": [] },
+          { "title": "Business management", "subtopics": [] },
+          { "title": "Finance", "subtopics": [] },
+          { "title": "Marketing", "subtopics": [] },
+          { "title": "Operations management", "subtopics": [] }
+        ]
+      },
+      {
+        "title": "Engineering and technology",
+        "subtopics": [
+          {
+            "title": "Chemical Engineering",
+            "subtopics": [
+              {
+                "title": "Bioengineering",
+                "subtopics": [
+                  { "title": "Biochemical engineering", "subtopics": [] },
+                  { "title": "Biomolecular engineering", "subtopics": [] }
+                ]
+              },
+              { "title": "Catalysis", "subtopics": [] },
+              { "title": "Materials engineering", "subtopics": [] },
+              { "title": "Molecular engineering", "subtopics": [] },
+              { "title": "Nanotechnology", "subtopics": [] },
+              { "title": "Polymer engineering", "subtopics": [] },
+              {
+                "title": "Process design",
+                "subtopics": [
+                  { "title": "Petroleum engineering", "subtopics": [] },
+                  { "title": "Nuclear engineering", "subtopics": [] },
+                  { "title": "Food engineering", "subtopics": [] }
+                ]
+              },
+              { "title": "Process engineering", "subtopics": [] },
+              { "title": "Reaction engineering", "subtopics": [] },
+              { "title": "Thermodynamics", "subtopics": [] },
+              { "title": "Transport phenomena", "subtopics": [] }
+            ]
+          },
+          {
+            "title": "Civil Engineering",
+            "subtopics": [
+              { "title": "Coastal engineering", "subtopics": [] },
+              { "title": "Earthquake engineering", "subtopics": [] },
+              { "title": "Ecological engineering", "subtopics": [] },
+              { "title": "Environmental engineering", "subtopics": [] },
+              {
+                "title": "Geotechnical engineering",
+                "subtopics": [{ "title": "Engineering geology", "subtopics": [] }]
+              },
+              { "title": "Hydraulic engineering", "subtopics": [] },
+              { "title": "Mining engineering", "subtopics": [] },
+              {
+                "title": "Transportation engineering",
+                "subtopics": [{ "title": "Highway engineering", "subtopics": [] }]
+              },
+              {
+                "title": "Structural engineering",
+                "subtopics": [
+                  { "title": "Architectural engineering", "subtopics": [] }
+                ]
+              },
+              { "title": "Structural mechanics", "subtopics": [] },
+              { "title": "Surveying", "subtopics": [] }
+            ]
+          },
+          {
+            "title": "Educational Technology",
+            "subtopics": [
+              {
+                "title": "Instructional design",
+                "subtopics": [
+                  { "title": "Distance education", "subtopics": [] },
+                  { "title": "Instructional simulation", "subtopics": [] }
+                ]
+              },
+              { "title": "Human performance technology", "subtopics": [] },
+              { "title": "Knowledge management", "subtopics": [] }
+            ]
+          },
+          {
+            "title": "Electrical Engineering",
+            "subtopics": [
+              { "title": "Applied physics", "subtopics": [] },
+              {
+                "title": "Computer engineering (outline)",
+                "subtopics": []
+              },
+              { "title": "Computer science", "subtopics": [] },
+              {
+                "title": "Control systems engineering",
+                "subtopics": [{ "title": "Control theory", "subtopics": [] }]
+              },
+              {
+                "title": "Electronic engineering",
+                "subtopics": [
+                  { "title": "Instrumentation engineering", "subtopics": [] }
+                ]
+              },
+              {
+                "title": "Engineering physics",
+                "subtopics": [{ "title": "Photonics", "subtopics": [] }]
+              },
+              { "title": "Information theory", "subtopics": [] },
+              { "title": "Mechatronics", "subtopics": [] },
+              { "title": "Power engineering", "subtopics": [] },
+              { "title": "Quantum computing", "subtopics": [] },
+              { "title": "Robotics (outline)", "subtopics": [] },
+              { "title": "Semiconductors", "subtopics": [] },
+              { "title": "Telecommunications engineering", "subtopics": [] }
+            ]
+          },
+          {
+            "title": "Materials Science and Engineering",
+            "subtopics": [
+              { "title": "Biomaterials", "subtopics": [] },
+              { "title": "Ceramic engineering", "subtopics": [] },
+              { "title": "Crystallography", "subtopics": [] },
+              { "title": "Nanomaterials", "subtopics": [] },
+              { "title": "Photonics", "subtopics": [] },
+              { "title": "Physical Metallurgy", "subtopics": [] },
+              { "title": "Polymer engineering", "subtopics": [] },
+              { "title": "Polymer science", "subtopics": [] },
+              { "title": "Semiconductors", "subtopics": [] }
+            ]
+          },
+          {
+            "title": "Mechanical Engineering",
+            "subtopics": [
+              {
+                "title": "Aerospace engineering",
+                "subtopics": [
+                  { "title": "Aeronautics", "subtopics": [] },
+                  { "title": "Astronautics", "subtopics": [] }
+                ]
+              },
+              { "title": "Acoustical engineering", "subtopics": [] },
+              { "title": "Automotive engineering", "subtopics": [] },
+              {
+                "title": "Biomedical engineering",
+                "subtopics": [
+                  { "title": "Biomechanical engineering", "subtopics": [] },
+                  { "title": "Neural engineering", "subtopics": [] }
+                ]
+              },
+              { "title": "Continuum mechanics", "subtopics": [] },
+              { "title": "Fluid mechanics", "subtopics": [] },
+              { "title": "Heat transfer", "subtopics": [] },
+              { "title": "Industrial engineering", "subtopics": [] },
+              { "title": "Manufacturing engineering", "subtopics": [] },
+              { "title": "Marine engineering", "subtopics": [] },
+              { "title": "Mass transfer", "subtopics": [] },
+              { "title": "Mechatronics", "subtopics": [] },
+              { "title": "Nanoengineering", "subtopics": [] },
+              { "title": "Ocean engineering", "subtopics": [] },
+              { "title": "Optical engineering", "subtopics": [] },
+              { "title": "Robotics", "subtopics": [] },
+              { "title": "Thermodynamics", "subtopics": [] }
+            ]
+          },
+          {
+            "title": "Systems science",
+            "subtopics": [
+              { "title": "Chaos theory", "subtopics": [] },
+              { "title": "Complex systems", "subtopics": [] },
+              { "title": "Conceptual systems", "subtopics": [] },
+              {
+                "title": "Control theory",
+                "subtopics": [
+                  { "title": "Affect control theory", "subtopics": [] },
+                  { "title": "Control engineering", "subtopics": [] },
+                  { "title": "Control systems", "subtopics": [] },
+                  { "title": "Dynamical systems", "subtopics": [] },
+                  { "title": "Perceptual control theory", "subtopics": [] }
+                ]
+              },
+              {
+                "title": "Cybernetics",
+                "subtopics": [
+                  { "title": "Biocybernetics", "subtopics": [] },
+                  { "title": "Engineering cybernetics", "subtopics": [] },
+                  { "title": "Management cybernetics", "subtopics": [] },
+                  { "title": "Medical cybernetics", "subtopics": [] },
+                  { "title": "New Cybernetics", "subtopics": [] },
+                  { "title": "Second-order cybernetics", "subtopics": [] },
+                  { "title": "Sociocybernetics", "subtopics": [] }
+                ]
+              },
+              { "title": "Network science", "subtopics": [] },
+              { "title": "Operations research", "subtopics": [] },
+              {
+                "title": "Systems biology",
+                "subtopics": [
+                  { "title": "Computational systems biology", "subtopics": [] },
+                  { "title": "Synthetic biology", "subtopics": [] },
+                  { "title": "Systems immunology", "subtopics": [] },
+                  { "title": "Systems neuroscience", "subtopics": [] }
+                ]
+              },
+              {
+                "title": "System dynamics",
+                "subtopics": [{ "title": "Social dynamics", "subtopics": [] }]
+              },
+              {
+                "title": "Systems ecology",
+                "subtopics": [{ "title": "Ecosystem ecology", "subtopics": [] }]
+              },
+              {
+                "title": "Systems engineering",
+                "subtopics": [
+                  { "title": "Biological systems engineering", "subtopics": [] },
+                  {
+                    "title": "Earth systems engineering and management",
+                    "subtopics": []
+                  },
+                  { "title": "Enterprise systems engineering", "subtopics": [] },
+                  { "title": "Systems analysis", "subtopics": [] }
+                ]
+              },
+              {
+                "title": "Systems psychology",
+                "subtopics": [
+                  { "title": "Ergonomics", "subtopics": [] },
+                  { "title": "Family systems theory", "subtopics": [] },
+                  { "title": "Systemic therapy", "subtopics": [] }
+                ]
+              },
+              {
+                "title": "Systems theory",
+                "subtopics": [
+                  { "title": "Biochemical systems theory", "subtopics": [] },
+                  { "title": "Ecological systems theory", "subtopics": [] },
+                  { "title": "Developmental systems theory", "subtopics": [] },
+                  { "title": "General systems theory", "subtopics": [] },
+                  { "title": "Living systems theory", "subtopics": [] },
+                  { "title": "LTI system theory", "subtopics": [] },
+                  { "title": "Mathematical system theory", "subtopics": [] },
+                  { "title": "Sociotechnical systems theory", "subtopics": [] },
+                  { "title": "World-systems theory", "subtopics": [] }
+                ]
+              },
+              { "title": "Systems theory in anthropology", "subtopics": [] }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Medicine and health",
+        "subtopics": [
+          { "title": "Alternative medicine", "subtopics": [] },
+          { "title": "Audiology", "subtopics": [] },
+          {
+            "title": "Clinical laboratory sciences/Clinical pathology/Laboratory medicine",
+            "subtopics": [
+              { "title": "Clinical biochemistry", "subtopics": [] },
+              { "title": "Cytogenetics", "subtopics": [] },
+              { "title": "Cytohematology", "subtopics": [] },
+              { "title": "Cytology (outline)", "subtopics": [] },
+              { "title": "Haemostasiology", "subtopics": [] },
+              { "title": "Histology", "subtopics": [] },
+              { "title": "Clinical immunology", "subtopics": [] },
+              { "title": "Clinical microbiology", "subtopics": [] },
+              { "title": "Molecular genetics", "subtopics": [] },
+              { "title": "Parasitology", "subtopics": [] }
+            ]
+          },
+          { "title": "Clinical physiology", "subtopics": [] },
+          {
+            "title": "Dentistry (outline)",
+            "subtopics": [
+              {
+                "title": "Dental hygiene and epidemiology",
+                "subtopics": []
+              },
+              { "title": "Dental surgery", "subtopics": [] },
+              { "title": "Endodontics", "subtopics": [] },
+              { "title": "Implantology", "subtopics": [] },
+              { "title": "Oral and maxillofacial surgery", "subtopics": [] },
+              { "title": "Orthodontics", "subtopics": [] },
+              { "title": "Periodontics", "subtopics": [] },
+              { "title": "Prosthodontics", "subtopics": [] }
+            ]
+          },
+          { "title": "Dermatology", "subtopics": [] },
+          { "title": "Emergency medicine (outline)", "subtopics": [] },
+          { "title": "Epidemiology", "subtopics": [] },
+          { "title": "Geriatrics", "subtopics": [] },
+          { "title": "Gynaecology", "subtopics": [] },
+          { "title": "Health informatics/Clinical informatics", "subtopics": [] },
+          { "title": "Hematology", "subtopics": [] },
+          { "title": "Infectious disease", "subtopics": [] },
+          { "title": "Intensive care medicine", "subtopics": [] },
+          {
+            "title": "Internal medicine",
+            "subtopics": [
+              {
+                "title": "Cardiology",
+                "subtopics": [
+                  { "title": "Cardiac electrophysiology", "subtopics": [] }
+                ]
+              },
+              { "title": "Endocrinology", "subtopics": [] },
+              { "title": "Gastroenterology", "subtopics": [] },
+              { "title": "Hepatology", "subtopics": [] },
+              { "title": "Nephrology", "subtopics": [] },
+              { "title": "Neurology", "subtopics": [] },
+              { "title": "Oncology", "subtopics": [] },
+              { "title": "Pulmonology", "subtopics": [] },
+              { "title": "Rheumatology", "subtopics": [] }
+            ]
+          },
+          { "title": "Medical toxicology", "subtopics": [] },
+          { "title": "Music therapy", "subtopics": [] },
+          { "title": "Nursing", "subtopics": [] },
+          {
+            "title": "Nutrition (outline) and dietetics",
+            "subtopics": []
+          },
+          { "title": "Obstetrics (outline)", "subtopics": [] },
+          { "title": "Occupational hygiene", "subtopics": [] },
+          { "title": "Occupational therapy", "subtopics": [] },
+          { "title": "Occupational toxicology", "subtopics": [] },
+          {
+            "title": "Ophthalmology",
+            "subtopics": [{ "title": "Neuro-ophthalmology", "subtopics": [] }]
+          },
+          { "title": "Optometry", "subtopics": [] },
+          { "title": "Otolaryngology", "subtopics": [] },
+          { "title": "Pathology", "subtopics": [] },
+          { "title": "Pediatrics", "subtopics": [] },
+          {
+            "title": "Pharmaceutical sciences",
+            "subtopics": [{ "title": "Pharmacy", "subtopics": [] }]
+          },
+          {
+            "title": "Physical fitness",
+            "subtopics": [
+              { "title": "Group Fitness / aerobics", "subtopics": [] },
+              {
+                "title": "Kinesiology / Exercise science / Human performance",
+                "subtopics": []
+              },
+              { "title": "Personal fitness training", "subtopics": [] }
+            ]
+          },
+          { "title": "Physical therapy", "subtopics": [] },
+          { "title": "Physiotherapy", "subtopics": [] },
+          { "title": "Podiatry", "subtopics": [] },
+          { "title": "Preventive medicine", "subtopics": [] },
+          {
+            "title": "Primary care",
+            "subtopics": [{ "title": "General practice", "subtopics": [] }]
+          },
+          {
+            "title": "Psychiatry (outline)",
+            "subtopics": [{ "title": "Forensic psychiatry", "subtopics": [] }]
+          },
+          { "title": "Psychology (outline)", "subtopics": [] },
+          { "title": "Public health", "subtopics": [] },
+          { "title": "Radiology", "subtopics": [] },
+          { "title": "Recreational therapy", "subtopics": [] },
+          { "title": "Rehabilitation medicine", "subtopics": [] },
+          { "title": "Respiratory therapy", "subtopics": [] },
+          { "title": "Sleep medicine", "subtopics": [] },
+          { "title": "Speech-language pathology", "subtopics": [] },
+          { "title": "Sports medicine", "subtopics": [] },
+          {
+            "title": "Surgery",
+            "subtopics": [
+              { "title": "Bariatric surgery", "subtopics": [] },
+              { "title": "Cardiothoracic surgery", "subtopics": [] },
+              { "title": "Neurosurgery", "subtopics": [] },
+              { "title": "Orthoptics", "subtopics": [] },
+              { "title": "Orthopedic surgery", "subtopics": [] },
+              { "title": "Plastic surgery", "subtopics": [] },
+              { "title": "Trauma surgery", "subtopics": [] },
+              { "title": "Traumatology", "subtopics": [] }
+            ]
+          },
+          { "title": "Traditional medicine", "subtopics": [] },
+          {
+            "title": "Urology",
+            "subtopics": [{ "title": "Andrology", "subtopics": [] }]
+          },
+          { "title": "Veterinary medicine", "subtopics": [] }
+        ]
+      }
+    ]
+  }
+]

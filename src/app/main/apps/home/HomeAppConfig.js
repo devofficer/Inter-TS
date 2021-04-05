@@ -3,7 +3,23 @@ import HomeApp from './HomeApp';
 const HomeConfig = {
 	settings: {
 		layout: {
-			config: {}
+			config: {
+				navbar: {
+					display: false
+				},
+				toolbar: {
+					display: false
+				},
+				footer: {
+					display: false
+				},
+				leftSidePanel: {
+					display: false
+				},
+				rightSidePanel: {
+					display: false
+				}
+			}
 		}
 	},
 	routes: [
