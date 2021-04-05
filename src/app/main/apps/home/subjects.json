@@ -6,7 +6,7 @@
         "title": "Performing arts",
         "subtopics": [
           {
-            "title": "Music (outline)",
+            "title": "Music",
             "subtopics": [
               { "title": "Accompanying", "subtopics": [] },
               { "title": "Chamber music", "subtopics": [] },
@@ -20,7 +20,7 @@
                 ]
               },
               { "title": "Early music", "subtopics": [] },
-              { "title": "Jazz studies (outline)", "subtopics": [] },
+              { "title": "Jazz studies", "subtopics": [] },
               { "title": "Musical composition", "subtopics": [] },
               { "title": "Music education", "subtopics": [] },
               { "title": "Music history", "subtopics": [] },
@@ -43,7 +43,7 @@
                   },
                   { "title": "Piano", "subtopics": [] },
                   {
-                    "title": "Strings, harp, oud, and guitar (outline)",
+                    "title": "Strings, harp, oud, and guitar",
                     "subtopics": []
                   },
                   { "title": "Singing", "subtopics": [] },
@@ -57,7 +57,7 @@
             ]
           },
           {
-            "title": "Dance (outline)",
+            "title": "Dance",
             "subtopics": [
               { "title": "Choreography", "subtopics": [] },
               { "title": "Dance notation", "subtopics": [] },
@@ -66,11 +66,11 @@
             ]
           },
           {
-            "title": "Television (outline)",
+            "title": "Television",
             "subtopics": [{ "title": "Television studies", "subtopics": [] }]
           },
           {
-            "title": "Theatre (outline)",
+            "title": "Theatre",
             "subtopics": [
               { "title": "Acting", "subtopics": [] },
               { "title": "Directing", "subtopics": [] },
@@ -85,7 +85,7 @@
             ]
           },
           {
-            "title": "Film (outline)",
+            "title": "Film",
             "subtopics": [
               { "title": "Animation", "subtopics": [] },
               { "title": "Film criticism", "subtopics": [] },
@@ -105,12 +105,12 @@
               {
                 "title": "Graphic arts",
                 "subtopics": [
-                  { "title": "Drawing (outline)", "subtopics": [] },
-                  { "title": "Painting (outline)", "subtopics": [] },
-                  { "title": "Photography (outline)", "subtopics": [] }
+                  { "title": "Drawing", "subtopics": [] },
+                  { "title": "Painting", "subtopics": [] },
+                  { "title": "Photography", "subtopics": [] }
                 ]
               },
-              { "title": "Sculpture (outline)", "subtopics": [] }
+              { "title": "Sculpture", "subtopics": [] }
             ]
           },
           {
@@ -158,11 +158,11 @@
               { "title": "Ancient Egypt", "subtopics": [] },
               { "title": "Carthage", "subtopics": [] },
               {
-                "title": "Ancient Greek history (outline)",
+                "title": "Ancient Greek history",
                 "subtopics": []
               },
               {
-                "title": "Ancient Roman history (outline)",
+                "title": "Ancient Roman history",
                 "subtopics": []
               },
               { "title": "Assyrian Civilization", "subtopics": [] },
@@ -186,7 +186,7 @@
             "title": "Asian history",
             "subtopics": [
               { "title": "Chinese history", "subtopics": [] },
-              { "title": "Indian history (outline)", "subtopics": [] },
+              { "title": "Indian history", "subtopics": [] },
               { "title": "Indonesian history", "subtopics": [] },
               { "title": "Iranian history", "subtopics": [] }
             ]
@@ -211,7 +211,7 @@
               {
                 "title": "Medieval philosophy",
                 "subtopics": [
-                  { "title": "Humanism (outline)", "subtopics": [] },
+                  { "title": "Humanism", "subtopics": [] },
                   { "title": "Scholasticism", "subtopics": [] }
                 ]
               },
@@ -256,7 +256,7 @@
               { "title": "Psycholinguistics", "subtopics": [] },
               { "title": "Rhetoric", "subtopics": [] },
               { "title": "Semantics", "subtopics": [] },
-              { "title": "Semiotics (outline)", "subtopics": [] },
+              { "title": "Semiotics", "subtopics": [] },
               { "title": "Sociolinguistics", "subtopics": [] },
               { "title": "Syntax", "subtopics": [] },
               { "title": "Usage", "subtopics": [] },
@@ -267,7 +267,7 @@
           {
             "title": "Creative writing",
             "subtopics": [
-              { "title": "Fiction (outline)", "subtopics": [] },
+              { "title": "Fiction", "subtopics": [] },
               { "title": "Non-fiction", "subtopics": [] }
             ]
           },
@@ -284,7 +284,7 @@
           {
             "title": "Literary theory",
             "subtopics": [
-              { "title": "Critical theory (outline)", "subtopics": [] },
+              { "title": "Critical theory", "subtopics": [] },
               { "title": "Literary criticism", "subtopics": [] },
               { "title": "Poetics", "subtopics": [] }
             ]
@@ -327,7 +327,7 @@
               { "title": "Labor law", "subtopics": [] },
               { "title": "Property law", "subtopics": [] },
               { "title": "Tax law", "subtopics": [] },
-              { "title": "Tort law (outline)", "subtopics": [] }
+              { "title": "Tort law", "subtopics": [] }
             ]
           },
           { "title": "Comparative law", "subtopics": [] },
@@ -337,14 +337,14 @@
             "title": "Criminal law",
             "subtopics": [
               {
-                "title": "Criminal justice (outline)",
+                "title": "Criminal justice",
                 "subtopics": []
               },
               {
                 "title": "Criminal procedure",
                 "subtopics": [
                   {
-                    "title": "Forensic science (outline)",
+                    "title": "Forensic science",
                     "subtopics": []
                   },
                   { "title": "Police science", "subtopics": [] }
@@ -353,7 +353,7 @@
             ]
           },
           { "title": "Islamic law", "subtopics": [] },
-          { "title": "Jewish law (outline)", "subtopics": [] },
+          { "title": "Jewish law", "subtopics": [] },
           {
             "title": "Jurisprudence (Philosophy of Law)",
             "subtopics": []
@@ -372,7 +372,7 @@
       {
         "title": "Philosophy",
         "subtopics": [
-          { "title": "Aesthetics (outline)", "subtopics": [] },
+          { "title": "Aesthetics", "subtopics": [] },
           {
             "title": "Applied philosophy",
             "subtopics": [
@@ -400,14 +400,14 @@
             ]
           },
           {
-            "title": "Epistemology (outline)",
+            "title": "Epistemology",
             "subtopics": [
               { "title": "Justification", "subtopics": [] },
               { "title": "Reasoning errors", "subtopics": [] }
             ]
           },
           {
-            "title": "Ethics (outline)",
+            "title": "Ethics",
             "subtopics": [
               {
                 "title": "Applied ethics",
@@ -429,7 +429,7 @@
             ]
           },
           {
-            "title": "Logic (outline)",
+            "title": "Logic",
             "subtopics": [
               { "title": "Mathematical logic", "subtopics": [] },
               { "title": "Philosophical logic", "subtopics": [] }
@@ -437,7 +437,7 @@
           },
           { "title": "Meta-philosophy", "subtopics": [] },
           {
-            "title": "Metaphysics (outline)",
+            "title": "Metaphysics",
             "subtopics": [
               { "title": "Philosophy of Action", "subtopics": [] },
               {
@@ -479,9 +479,9 @@
           {
             "title": "Social philosophy and political philosophy",
             "subtopics": [
-              { "title": "Anarchism (outline)", "subtopics": [] },
+              { "title": "Anarchism", "subtopics": [] },
               { "title": "Feminist philosophy", "subtopics": [] },
-              { "title": "Libertarianism (outline)", "subtopics": [] },
+              { "title": "Libertarianism", "subtopics": [] },
               { "title": "Marxism", "subtopics": [] }
             ]
           }
@@ -742,7 +742,7 @@
           { "title": "Occupational health psychology", "subtopics": [] },
           { "title": "Occupational psychology", "subtopics": [] },
           { "title": "Organizational psychology", "subtopics": [] },
-          { "title": "Parapsychology (outline)", "subtopics": [] },
+          { "title": "Parapsychology", "subtopics": [] },
           { "title": "Pediatric psychology", "subtopics": [] },
           { "title": "Pedology (children study)", "subtopics": [] },
           { "title": "Personality psychology", "subtopics": [] },
@@ -804,7 +804,7 @@
                   { "title": "Korean studies", "subtopics": [] },
                   { "title": "Pakistan studies", "subtopics": [] },
                   { "title": "Sindhology", "subtopics": [] },
-                  { "title": "Sinology (outline)", "subtopics": [] },
+                  { "title": "Sinology", "subtopics": [] },
                   { "title": "Southeast Asian studies", "subtopics": [] },
                   { "title": "Thai studies", "subtopics": [] }
                 ]
@@ -843,7 +843,7 @@
           { "title": "Comparative sociology", "subtopics": [] },
           { "title": "Conflict theory", "subtopics": [] },
           {
-            "title": "Criminology/Criminal justice (outline)",
+            "title": "Criminology/Criminal justice",
             "subtopics": []
           },
           { "title": "Critical management studies", "subtopics": [] },
@@ -871,7 +871,7 @@
           { "title": "Evolutionary sociology", "subtopics": [] },
           { "title": "Feminist sociology", "subtopics": [] },
           { "title": "Figurational sociology", "subtopics": [] },
-          { "title": "Futures studies (outline)", "subtopics": [] },
+          { "title": "Futures studies", "subtopics": [] },
           {
             "title": "Gender studies",
             "subtopics": [
@@ -915,7 +915,7 @@
             "subtopics": [
               { "title": "Heterosexism", "subtopics": [] },
               { "title": "Human sexual behavior", "subtopics": [] },
-              { "title": "Human sexuality (outline)", "subtopics": [] },
+              { "title": "Human sexuality", "subtopics": [] },
               { "title": "Queer studies/Queer theory", "subtopics": [] },
               { "title": "Sex education", "subtopics": [] }
             ]
@@ -1040,21 +1040,21 @@
             "title": "Anatomy",
             "subtopics": [
               { "title": "Comparative anatomy", "subtopics": [] },
-              { "title": "Human anatomy (outline)", "subtopics": [] }
+              { "title": "Human anatomy", "subtopics": [] }
             ]
           },
-          { "title": "Biochemistry (outline)", "subtopics": [] },
+          { "title": "Biochemistry", "subtopics": [] },
           { "title": "Bioinformatics", "subtopics": [] },
-          { "title": "Biophysics (outline)", "subtopics": [] },
-          { "title": "Biotechnology (outline)", "subtopics": [] },
+          { "title": "Biophysics", "subtopics": [] },
+          { "title": "Biotechnology", "subtopics": [] },
           {
-            "title": "Botany (outline)",
+            "title": "Botany",
             "subtopics": [
               { "title": "Ethnobotany", "subtopics": [] },
               { "title": "Phycology", "subtopics": [] }
             ]
           },
-          { "title": "Cell biology (outline)", "subtopics": [] },
+          { "title": "Cell biology", "subtopics": [] },
           { "title": "Chronobiology", "subtopics": [] },
           { "title": "Computational biology", "subtopics": [] },
           { "title": "Cryobiology", "subtopics": [] },
@@ -1066,7 +1066,7 @@
             ]
           },
           {
-            "title": "Ecology (outline)",
+            "title": "Ecology",
             "subtopics": [
               { "title": "Agroecology", "subtopics": [] },
               { "title": "Ethnoecology", "subtopics": [] },
@@ -1077,7 +1077,7 @@
           { "title": "Endocrinology", "subtopics": [] },
           { "title": "Evolutionary biology", "subtopics": [] },
           {
-            "title": "Genetics (outline)",
+            "title": "Genetics",
             "subtopics": [
               { "title": "Behavioural genetics", "subtopics": [] },
               { "title": "Molecular genetics", "subtopics": [] },
@@ -1086,7 +1086,7 @@
           },
           { "title": "Histology", "subtopics": [] },
           { "title": "Human biology", "subtopics": [] },
-          { "title": "Immunology (outline)", "subtopics": [] },
+          { "title": "Immunology", "subtopics": [] },
           { "title": "Limnology", "subtopics": [] },
           { "title": "Linnaean taxonomy", "subtopics": [] },
           { "title": "Marine biology", "subtopics": [] },
@@ -1101,10 +1101,10 @@
           { "title": "Molecular biology", "subtopics": [] },
           { "title": "Mycology", "subtopics": [] },
           {
-            "title": "Neuroscience (outline)",
+            "title": "Neuroscience",
             "subtopics": [{ "title": "Behavioral neuroscience", "subtopics": [] }]
           },
-          { "title": "Nutrition (outline)", "subtopics": [] },
+          { "title": "Nutrition", "subtopics": [] },
           {
             "title": "Paleobiology",
             "subtopics": [{ "title": "Paleontology", "subtopics": [] }]
@@ -1141,7 +1141,7 @@
           },
           { "title": "Xenobiology", "subtopics": [] },
           {
-            "title": "Zoology (outline)",
+            "title": "Zoology",
             "subtopics": [
               { "title": "Animal communications", "subtopics": [] },
               { "title": "Apiology", "subtopics": [] },
@@ -1156,17 +1156,17 @@
               { "title": "Ethology", "subtopics": [] },
               { "title": "Helminthology", "subtopics": [] },
               { "title": "Herpetology", "subtopics": [] },
-              { "title": "Ichthyology (outline)", "subtopics": [] },
+              { "title": "Ichthyology", "subtopics": [] },
               { "title": "Mammalogy", "subtopics": [] },
               {
                 "title": "Malacology",
                 "subtopics": [{ "title": "Conchology", "subtopics": [] }]
               },
-              { "title": "Myrmecology (outline)", "subtopics": [] },
+              { "title": "Myrmecology", "subtopics": [] },
               { "title": "Nematology", "subtopics": [] },
               { "title": "Neuroethology", "subtopics": [] },
               { "title": "Oology", "subtopics": [] },
-              { "title": "Ornithology (outline)", "subtopics": [] },
+              { "title": "Ornithology", "subtopics": [] },
               { "title": "Planktology", "subtopics": [] },
               { "title": "Primatology", "subtopics": [] },
               { "title": "Zootomy", "subtopics": [] },
@@ -1182,10 +1182,10 @@
           { "title": "Analytical chemistry", "subtopics": [] },
           { "title": "Astrochemistry", "subtopics": [] },
           { "title": "Atmospheric chemistry", "subtopics": [] },
-          { "title": "Biochemistry (outline)", "subtopics": [] },
+          { "title": "Biochemistry", "subtopics": [] },
           { "title": "Chemical biology", "subtopics": [] },
           {
-            "title": "Chemical engineering (outline)",
+            "title": "Chemical engineering",
             "subtopics": []
           },
           { "title": "Cheminformatics", "subtopics": [] },
@@ -1212,7 +1212,7 @@
           { "title": "Natural product chemistry", "subtopics": [] },
           { "title": "Neurochemistry", "subtopics": [] },
           { "title": "Oenology", "subtopics": [] },
-          { "title": "Organic chemistry (outline)", "subtopics": [] },
+          { "title": "Organic chemistry", "subtopics": [] },
           { "title": "Organometallic chemistry", "subtopics": [] },
           { "title": "Petrochemistry", "subtopics": [] },
           { "title": "Pharmacology", "subtopics": [] },
@@ -1242,10 +1242,10 @@
           { "title": "Geochemistry", "subtopics": [] },
           { "title": "Geodesy", "subtopics": [] },
           {
-            "title": "Physical geography (outline)",
+            "title": "Physical geography",
             "subtopics": [
               {
-                "title": "Atmospheric science / Meteorology (outline)",
+                "title": "Atmospheric science / Meteorology",
                 "subtopics": []
               },
               {
@@ -1266,20 +1266,20 @@
               },
               { "title": "Geobiology", "subtopics": [] },
               {
-                "title": "Geology (outline) (Geomorphology, Mineralogy, Petrology, Sedimentology, Speleology, Tectonics, Volcanology)",
+                "title": "Geology (Geomorphology, Mineralogy, Petrology, Sedimentology, Speleology, Tectonics, Volcanology)",
                 "subtopics": []
               },
               { "title": "Geostatistics", "subtopics": [] },
               { "title": "Glaciology", "subtopics": [] },
               {
-                "title": "Hydrology (outline)/ Limnology / Hydrogeology",
+                "title": "Hydrology/ Limnology / Hydrogeology",
                 "subtopics": []
               },
               { "title": "Landscape ecology", "subtopics": [] },
               { "title": "Quaternary science", "subtopics": [] }
             ]
           },
-          { "title": "Geophysics (outline)", "subtopics": [] },
+          { "title": "Geophysics", "subtopics": [] },
           {
             "title": "Paleontology",
             "subtopics": [
@@ -1294,7 +1294,7 @@
         "subtopics": [
           { "title": "Astrobiology", "subtopics": [] },
           {
-            "title": "Astronomy (outline)",
+            "title": "Astronomy",
             "subtopics": [
               {
                 "title": "Observational astronomy",
@@ -1351,7 +1351,7 @@
           { "title": "Applied physics", "subtopics": [] },
           { "title": "Astrophysics", "subtopics": [] },
           { "title": "Atomic, molecular, and optical physics", "subtopics": [] },
-          { "title": "Biophysics (outline)", "subtopics": [] },
+          { "title": "Biophysics", "subtopics": [] },
           { "title": "Computational physics", "subtopics": [] },
           { "title": "Condensed matter physics", "subtopics": [] },
           { "title": "Cryogenics", "subtopics": [] },
@@ -1360,7 +1360,7 @@
           { "title": "Elementary particle physics", "subtopics": [] },
           { "title": "Experimental physics", "subtopics": [] },
           { "title": "Fluid dynamics", "subtopics": [] },
-          { "title": "Geophysics (outline)", "subtopics": [] },
+          { "title": "Geophysics", "subtopics": [] },
           { "title": "Mathematical physics", "subtopics": [] },
           { "title": "Mechanics", "subtopics": [] },
           { "title": "Medical physics", "subtopics": [] },
@@ -1412,14 +1412,14 @@
             ]
           },
           {
-            "title": "Artificial intelligence (outline)",
+            "title": "Artificial intelligence",
             "subtopics": [
               {
                 "title": "Cognitive science",
                 "subtopics": [
                   { "title": "Automated reasoning", "subtopics": [] },
                   {
-                    "title": "Computer vision (outline)",
+                    "title": "Computer vision",
                     "subtopics": []
                   },
                   {
@@ -1436,7 +1436,7 @@
                 ]
               },
               { "title": "Expert systems", "subtopics": [] },
-              { "title": "Robotics (outline)", "subtopics": [] }
+              { "title": "Robotics", "subtopics": [] }
             ]
           },
           { "title": "Data structures", "subtopics": [] },
@@ -1508,12 +1508,12 @@
               },
               { "title": "History of computer hardware", "subtopics": [] },
               {
-                "title": "History of computer science (outline)",
+                "title": "History of computer science",
                 "subtopics": []
               },
               { "title": "Humanistic informatics", "subtopics": [] },
               {
-                "title": "Database (outline)",
+                "title": "Database",
                 "subtopics": [
                   { "title": "Distributed database", "subtopics": [] },
                   { "title": "Object database", "subtopics": [] },
@@ -1607,7 +1607,7 @@
                 ]
               },
               {
-                "title": "Algebra (outline)",
+                "title": "Algebra",
                 "subtopics": [
                   { "title": "Associative algebra", "subtopics": [] },
                   {
@@ -1665,7 +1665,7 @@
                   {
                     "title": "Real analysis",
                     "subtopics": [
-                      { "title": "Calculus (outline)", "subtopics": [] }
+                      { "title": "Calculus", "subtopics": [] }
                     ]
                   }
                 ]
@@ -1682,7 +1682,7 @@
                 ]
               },
               {
-                "title": "Geometry (outline) and Topology",
+                "title": "Geometry and Topology",
                 "subtopics": [
                   { "title": "Affine geometry", "subtopics": [] },
                   { "title": "Algebraic geometry", "subtopics": [] },
@@ -1716,7 +1716,7 @@
             "subtopics": [
               { "title": "Approximation theory", "subtopics": [] },
               {
-                "title": "Combinatorics (outline)",
+                "title": "Combinatorics",
                 "subtopics": [{ "title": "Coding theory", "subtopics": [] }]
               },
               { "title": "Cryptography", "subtopics": [] },
@@ -1760,7 +1760,7 @@
                 ]
               },
               {
-                "title": "Statistics (outline)",
+                "title": "Statistics",
                 "subtopics": [
                   { "title": "Actuarial science", "subtopics": [] },
                   { "title": "Demography", "subtopics": [] },
@@ -1872,7 +1872,7 @@
             "subtopics": [
               { "title": "Applied physics", "subtopics": [] },
               {
-                "title": "Computer engineering (outline)",
+                "title": "Computer engineering",
                 "subtopics": []
               },
               { "title": "Computer science", "subtopics": [] },
@@ -1894,7 +1894,7 @@
               { "title": "Mechatronics", "subtopics": [] },
               { "title": "Power engineering", "subtopics": [] },
               { "title": "Quantum computing", "subtopics": [] },
-              { "title": "Robotics (outline)", "subtopics": [] },
+              { "title": "Robotics", "subtopics": [] },
               { "title": "Semiconductors", "subtopics": [] },
               { "title": "Telecommunications engineering", "subtopics": [] }
             ]
@@ -2044,7 +2044,7 @@
               { "title": "Clinical biochemistry", "subtopics": [] },
               { "title": "Cytogenetics", "subtopics": [] },
               { "title": "Cytohematology", "subtopics": [] },
-              { "title": "Cytology (outline)", "subtopics": [] },
+              { "title": "Cytology", "subtopics": [] },
               { "title": "Haemostasiology", "subtopics": [] },
               { "title": "Histology", "subtopics": [] },
               { "title": "Clinical immunology", "subtopics": [] },
@@ -2055,7 +2055,7 @@
           },
           { "title": "Clinical physiology", "subtopics": [] },
           {
-            "title": "Dentistry (outline)",
+            "title": "Dentistry",
             "subtopics": [
               {
                 "title": "Dental hygiene and epidemiology",
@@ -2071,7 +2071,7 @@
             ]
           },
           { "title": "Dermatology", "subtopics": [] },
-          { "title": "Emergency medicine (outline)", "subtopics": [] },
+          { "title": "Emergency medicine", "subtopics": [] },
           { "title": "Epidemiology", "subtopics": [] },
           { "title": "Geriatrics", "subtopics": [] },
           { "title": "Gynaecology", "subtopics": [] },
@@ -2102,10 +2102,10 @@
           { "title": "Music therapy", "subtopics": [] },
           { "title": "Nursing", "subtopics": [] },
           {
-            "title": "Nutrition (outline) and dietetics",
+            "title": "Nutrition and dietetics",
             "subtopics": []
           },
-          { "title": "Obstetrics (outline)", "subtopics": [] },
+          { "title": "Obstetrics", "subtopics": [] },
           { "title": "Occupational hygiene", "subtopics": [] },
           { "title": "Occupational therapy", "subtopics": [] },
           { "title": "Occupational toxicology", "subtopics": [] },
@@ -2141,10 +2141,10 @@
             "subtopics": [{ "title": "General practice", "subtopics": [] }]
           },
           {
-            "title": "Psychiatry (outline)",
+            "title": "Psychiatry",
             "subtopics": [{ "title": "Forensic psychiatry", "subtopics": [] }]
           },
-          { "title": "Psychology (outline)", "subtopics": [] },
+          { "title": "Psychology", "subtopics": [] },
           { "title": "Public health", "subtopics": [] },
           { "title": "Radiology", "subtopics": [] },
           { "title": "Recreational therapy", "subtopics": [] },
