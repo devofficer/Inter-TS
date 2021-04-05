@@ -35,7 +35,8 @@ const useStyles = makeStyles(theme => ({
 		borderRight: `1px solid ${theme.palette.divider}`
 	},
 	nested: {
-		paddingLeft: theme.spacing(2)
+		marginLeft: theme.spacing(2),
+		borderLeft: `1px solid ${theme.palette.divider}`
 	},
 	content: {
 		backgroundColor: theme.palette.background.paper,
