@@ -1,8 +1,10 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { makeStyles } from '@material-ui/core/styles';
 import clsx from 'clsx';
 
 import Navigation from './Navigation';
+import HomeAppContent from './contents/home/HomeAppContent';
+import SearchAppContent from './contents/search/SearchAppContent';
 
 const useStyles = makeStyles(theme => ({
 	root: {
@@ -50,21 +52,29 @@ const useStyles = makeStyles(theme => ({
 	}
 }));
 
-function AppLayout(props) {
+function MainApp(props) {
 	const classes = useStyles(props);
+	const [tab, setTab] = useState(0);
+
+	const handleChange = (event, newValue) => {
+		setTab(newValue);
+	};
 
 	return (
 		<div className={clsx(classes.root)}>
 			<div className={clsx(classes.contentWrapper)}>
 				<div className={clsx(classes.contentCard)}>
-					<div className={clsx(classes.content)}>{props.content}</div>
+					<div className={clsx(classes.content)}>
+						{tab === 0 && <HomeAppContent />}
+						{tab === 1 && <SearchAppContent />}
+					</div>
 				</div>
 				<div className={clsx(classes.navigation)}>
-					<Navigation />
+					<Navigation tab={tab} handleChange={handleChange} />
 				</div>
 			</div>
 		</div>
 	);
 }
 
-export default AppLayout;
+export default MainApp;

@@ -1,6 +1,6 @@
-import SearchApp from './SearchApp';
+import MainApp from './MainApp';
 
-const SearchConfig = {
+const MainAppConfig = {
 	settings: {
 		layout: {
 			config: {
@@ -24,10 +24,10 @@ const SearchConfig = {
 	},
 	routes: [
 		{
-			path: '/apps/search',
-			component: SearchApp
+			path: '/apps/main',
+			component: MainApp
 		}
 	]
 };
 
-export default SearchConfig;
+export default MainAppConfig;

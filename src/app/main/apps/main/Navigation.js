@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import { makeStyles } from '@material-ui/core/styles';
 import Paper from '@material-ui/core/Paper';
 import Tabs from '@material-ui/core/Tabs';
@@ -15,17 +15,13 @@ const useStyles = makeStyles({
 	}
 });
 
-export default function Navigation() {
+export default function Navigation(props) {
 	const classes = useStyles();
-	const [value, setValue] = useState(0);
-
-	const handleChange = (event, newValue) => {
-		setValue(newValue);
-	};
+	const { tab, handleChange } = props;
 
 	return (
 		<Paper className={classes.root}>
-			<Tabs value={value} onChange={handleChange} indicatorColor="primary" textColor="primary" centered>
+			<Tabs value={tab} onChange={handleChange} indicatorColor="primary" textColor="primary" centered>
 				<Tab label="Home" icon={<HomeIcon />} />
 				<Tab label="Search" icon={<SearchIcon />} />
 				<Tab label="Add" icon={<AddIcon />} />

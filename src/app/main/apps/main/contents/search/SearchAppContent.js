@@ -10,6 +10,7 @@ import ListItem from '@material-ui/core/ListItem';
 import ListItemText from '@material-ui/core/ListItemText';
 import ListItemAvatar from '@material-ui/core/ListItemAvatar';
 import Avatar from '@material-ui/core/Avatar';
+import Divider from '@material-ui/core/Divider';
 import clsx from 'clsx';
 
 import data from './search.json';
@@ -96,18 +97,21 @@ export default function SearchAppContent() {
 			<List className={classes.root}>
 				{list.map(item => {
 					return (
-						<ListItem>
-							<ListItemAvatar>
-								{item.type === 'person' && <Avatar alt={item.name} src={item.photo} />}
-								{item.type === 'tag' && (
-									<Avatar>
-										<Icon>local_offer</Icon>
-									</Avatar>
-								)}
-							</ListItemAvatar>
-							{item.type === 'person' && <ListItemText primary={item.name} />}
-							{item.type === 'tag' && <ListItemText primary={item.title} secondary={item.info} />}
-						</ListItem>
+						<>
+							<ListItem>
+								<ListItemAvatar>
+									{item.type === 'person' && <Avatar alt={item.name} src={item.photo} />}
+									{item.type === 'tag' && (
+										<Avatar>
+											<Icon>local_offer</Icon>
+										</Avatar>
+									)}
+								</ListItemAvatar>
+								{item.type === 'person' && <ListItemText primary={item.name} />}
+								{item.type === 'tag' && <ListItemText primary={item.title} secondary={item.info} />}
+							</ListItem>
+							<Divider variant="inset" component="li" />
+						</>
 					);
 				})}
 			</List>

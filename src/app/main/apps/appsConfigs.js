@@ -1,6 +1,5 @@
-import HomeAppConfig from './home/HomeAppConfig';
-import SearchAppConfig from './search/SearchAppConfig';
+import MainAppConfig from './main/MainAppConfig';
 
-const appsConfigs = [HomeAppConfig, SearchAppConfig];
+const appsConfigs = [MainAppConfig];
 
 export default appsConfigs;
