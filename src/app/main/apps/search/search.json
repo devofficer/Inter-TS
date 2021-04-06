@@ -1,0 +1,38 @@
+{
+	"people": [
+		{
+			"name": "Travis Howard",
+			"photo": "/material-ui-static/images/avatar/1.jpg"
+		},
+		{
+			"name": "Remy Sharp",
+			"photo": "/material-ui-static/images/avatar/2.jpg"
+		},
+		{
+			"name": "Cindy Baker",
+			"photo": "/material-ui-static/images/avatar/3.jpg"
+		}
+	],
+	"tags": [
+		{
+			"title": "example",
+			"info": "This is an example tag."
+		},
+		{
+			"title": "tag1",
+			"info": "tag1..."
+		},
+		{
+			"title": "nice",
+			"info": "nice day"
+		},
+		{
+			"title": "close",
+			"info": "close tag"
+		},
+		{
+			"title": "open",
+			"info": "opening now"
+		}
+	]
+}

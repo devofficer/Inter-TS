@@ -113,6 +113,7 @@ export default function HomeAppContent() {
 				<Tab label="As a Teacher" />
 				<Tab label="As a Student" />
 			</Tabs>
+
 			<div className={classes.root}>
 				<div className={classes.lists}>
 					<List component="nav" aria-labelledby="nested-list-subheader">

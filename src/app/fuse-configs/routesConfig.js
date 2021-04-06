@@ -1,9 +1,9 @@
 import React from 'react';
 import { Redirect } from 'react-router-dom';
 import FuseUtils from '@fuse/utils';
-import HomeAppConfig from 'app/main/apps/home/HomeAppConfig';
+import appsConfigs from 'app/main/apps/appsConfigs';
 
-const routeConfigs = [HomeAppConfig];
+const routeConfigs = [...appsConfigs];
 
 const routes = [
 	...FuseUtils.generateRoutesFromConfigs(routeConfigs),
